@@ -1,0 +1,300 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    font-family: 'nexa-light' !important;
+}
+@font-face {
+    font-family: "nexa-light";
+    src: url('../fonts/nexa_light.otf');
+}
+@font-face {
+    font-family: "nexa-bold";
+    src: url('../fonts/Nexa_Bold.otf');
+}
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.nexa-b {
+    font-family: nexa-bold;
+}
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+}
+#MainContent_panel_Fechas{
+    width:100%;
+}
+.body-back {
+    background: #EAEAEA !important;
+}
+.btn-space{
+    margin-right: 3%;
+}
+.btn-download {
+    background: transparent !important;
+    border: 1px solid #3B3BB6 !important;
+    color: #3B3BB6 !important;
+}
+.btn-layout {
+    background: transparent !important;
+    border: 1px solid #04A205D4 !important;
+    color: #04A205D4 !important;
+}
+/*
+    #EAEAEA Gris fondo
+    #3B3BB6 azul secundario
+    #07076A Azul principal
+    #4C4C4C LETRAS
+*/
+.txt-color {
+    color: #07076A !important;
+}
+
+.input-icons i {
+    position: absolute;
+}
+
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    min-width: 40px;
+    color: #3B3BB6;
+}
+.input-field:focus-visible {
+    width: 100%;
+    padding-left: 40px;
+    border-width: 0 0 2px;
+    border-color: #fff;
+    background: transparent !important;
+    border-width: 0 0 2px !important;
+    border-color: #A4A8BB !important;
+    color: #4F4F4F !important;
+}
+
+.input-field {
+    width: 100%;
+    padding-left: 40px;
+    border-width: 0 0 2px;
+    border-color: #fff;
+    background: transparent !important;
+    border-width: 0 0 2px !important;
+    border-color: #A4A8BB !important;
+    color: #4F4F4F !important;
+    margin-bottom: 5%;
+}
+input{
+    max-width: none;
+}
+.btn-cotinue {
+    border-radius: 1.5em !important;
+    background-color: transparent !important;
+    color: #3B3BB6 !important;
+    font-size: 1em !important;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: nexa-bold !important;
+    border: 1px solid #3B3BB6 !important;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: transparent !important;
+    border-bottom: none !important;
+}
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+p {
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999
+}
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s
+}
+
+.navbar {
+    padding: 15px 10px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1)
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #ddd
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #f8f9fa !important;
+    color: #4C4C4C;
+    transition: all 0.3s;
+    
+}
+
+#sidebar.active {
+    margin-left: -250px
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+    background: #f8f9fa !important;
+    color: #07076A;
+    font-family: nexa-bold;
+}
+
+#sidebar ul.components {
+    padding: 20px 0px;
+}
+
+#sidebar ul p {
+    padding: 10px;
+    font-size: 15px;
+    display: block;
+    color: #fff;
+}
+.my-profile {
+    width: 15vw;
+    margin-right: 20%;
+    font-size: 1em;
+}
+.my-profile i{
+    margin-right: 10%;
+}
+#sidebar ul li a {
+    font-size: 1em !important;
+    display: block;
+    color: #4C4C4C;
+}
+#sidebar ul li a i
+{
+    margin-right: 10%;
+}
+
+#sidebar ul li a:hover {
+    color: #07076A;
+    background: #EAEAEA;
+}
+
+#sidebar ul li.active > a,
+a[aria-expanded="true"] {
+    color: #fff;
+    background: #EAEAEA;
+}
+
+a[data-toggle="collapse"] {
+    position: relative
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%)
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #EAEAEA;
+    color: #4C4C4C !important;
+}
+
+ul.CTAs {
+    padding: 20px
+}
+.font-btn{
+    font-size: .9em !important;
+    margin-right: 2%;
+}
+.space{
+    margin-bottom: 2%;
+}
+ul.CTAs a {
+    text-align: center;
+    font-size: 0.9em !important;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px
+}
+.content{
+    width: 100% !important;
+}
+a.download,
+a.download:hover {
+    background: #318fb5;
+    color: #fff;
+}
+.table-bordered{
+    border: none !important;
+}
+#content {
+    width: 100% !important;
+    padding: 20px;
+    min-height: 100vh;
+    transition: all 0.3s
+}
+
+.content-wrapper {
+    padding: 15px
+}
+
+@media(maz-width:768px) {
+    #sidebar {
+        margin-left: -250px
+    }
+
+    #sidebar.active {
+        margin-left: 0px
+    }
+
+    #sidebarCollapse span {
+        display: none
+    }
+}
