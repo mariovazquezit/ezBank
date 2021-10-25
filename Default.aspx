@@ -7,10 +7,9 @@
     <div class="col-md-12" style="height:10vh;"></div>
     <div class="col-sm-4 col-xs-12">
         <div class="card">
-            <div class="card-header">
-                <h2 class="text-center nexa-b txt-color">
-                    ezBank
-                </h2>
+            <div class="card-header text-center">
+                <asp:Label ID="lblNombreSistema" runat="server" CssClass="text-center nexa-b txt-color" Font-Size="XX-Large"></asp:Label>                
+                <asp:Label ID="lblNombreFinanciera" runat="server" CssClass="text-center nexa-b txt-color" Font-size="Larger"></asp:Label>                
             </div>
             <div class="card-body">
                 <div class="row d-flex justify-content-center">

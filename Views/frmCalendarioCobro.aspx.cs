@@ -99,8 +99,14 @@ namespace ezBank.Views
             DateTime FechaPagoX = DateTime.ParseExact(dtp_FechaPago.Text, "yyyy-MM-dd", System.Globalization.CultureInfo.InvariantCulture);
             string FechaPago = FechaPagoX.ToString("yyyy-MM-dd");
 
-            string Query= "INSERT INTO OPTCALENDARIOPAGOS(FECHACREACION, USUARIO, CONCEPTO,FECHAPAGO, COMENTARIO, ESTATUS) VALUES(CONVERT(VARCHAR(10),GETDATE(),126), '" + Usuario + "','" + Concepto + "','" + FechaPago + "','" + Comentarios + "','" + Estatus + "')";
-            
+            if ( Concepto=="" || Comentarios=="" || Concepto == null || Comentarios == null)
+            {
+                Response.Write("<script>alert('Favor de capturar el Concepto y los Comentarios de su Calendario');</script>");
+                return;
+            }
+
+            string Query= "INSERT INTO OPTCALENDARIOPAGOS(FECHACREACION, USUARIO, CONCEPTO,FECHAPAGO, COMENTARIO, ESTATUS) VALUES(CONVERT(VARCHAR(10),GETDATE(),126), '" + Usuario + "','" + Concepto + "','" + FechaPago + "','" + Comentarios + "','" + Estatus + "')";            
+
             int rowsAffected = principalClass.CUD(Query);
 
             if (rowsAffected == 1)

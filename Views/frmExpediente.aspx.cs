@@ -344,5 +344,8 @@ namespace ezBank.Views
             ocultarPanelesPrincipales();
             panelAfiliacion.Visible = true;
         }
+
+      
+
     }
 }

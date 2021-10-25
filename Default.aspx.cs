@@ -17,7 +17,36 @@ namespace ezBank
 
             Session["UsuarioGlobal"]="";
             Session["PerfilGlobal"]="";
-                           
+
+
+            string Query = "select valorString from  catConfiguracion";
+
+            string ConexionConfig = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
+            SqlConnection conexion = new SqlConnection(ConexionConfig);
+            SqlCommand comando = new SqlCommand(Query, conexion);
+            SqlDataAdapter adaptador = new SqlDataAdapter(comando);
+            DataTable tablaResultado = new DataTable();
+
+
+            SqlCommand SP_FotoCartera = new SqlCommand("SP_SALDOSCARTERA_FOTOINICIAL", conexion);
+            SP_FotoCartera.CommandType = CommandType.StoredProcedure;
+
+            conexion.Open();
+
+            SP_FotoCartera.ExecuteNonQuery();
+
+            adaptador.Fill(tablaResultado);
+
+            string nombreSistema = tablaResultado.Rows[0][0].ToString();
+            string nombreFinanciera = tablaResultado.Rows[1][0].ToString();
+            
+            conexion.Close();
+
+            lblNombreSistema.Text = nombreSistema;
+            lblNombreFinanciera.Text = nombreFinanciera;
+
+
+
         }
 
         protected void btnInicioSesion_Click(object sender, EventArgs e)
@@ -81,6 +110,11 @@ namespace ezBank
         protected void mostrarPanelInvalido()
         {
             panelUsuarioinvalido.Visible = true;
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

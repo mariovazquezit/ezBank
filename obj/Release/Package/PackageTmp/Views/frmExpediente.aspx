@@ -358,7 +358,7 @@
                         <h4 class="text-primary">Histórico de Cobranza</h4>
                    </div>
                    <div class="card-body">
-                         <asp:GridView ID="dgvLogDomiciliacion" runat="server" CssClass="table table-responsive table-bordered table-hover table-sm" >
+                         <asp:GridView ID="dgvLogDomiciliacion" runat="server" CssClass="table table-responsive table-bordered table-hover table-sm"  >
                             <SelectedRowStyle BackColor="#FFFF66" Font-Bold="True" ForeColor="#333333" />
                         </asp:GridView>
                    </div>

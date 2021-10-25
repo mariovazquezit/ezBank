@@ -22,12 +22,18 @@
                                     <asp:ListItem>Carga de Respuestas Bancarias</asp:ListItem>
                                 </asp:DropDownList>
                             </div>
-
+                            <div class="col-md-6">
+                             </div>
+                             <div class="col-md-3">
+                                 <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">LinkButton</asp:LinkButton>
+                                   <asp:LinkButton ID="btnNuevoCobranza" runat="server" CssClass="btn btn-block btn-success" OnClick="btnNuevoCobranza_Click"> <i class="fas fa-plus"></i>Nuevo</asp:LinkButton> 
+                             </div>
                        
                         </div>
 
-                        <asp:Panel ID="panelEstrategiaCobranza" runat="server" Visible="false">
-                            <hr />
+                        <asp:Panel ID="panelEstrategiaCobranza" runat="server" Visible="false">                            
+                            <div class="card">
+                                <div class="card-body">                                
                             <div class="form-row"> 
                                 <div class="col-md-2">
                                     <label>Producto</label>
@@ -36,35 +42,47 @@
                                 </div>
                                 <div class="col-md-3">
                                 <label>Convenio/Dependencia</label>
-                                <asp:DropDownList ID="cmbConvenio" runat="server" CssClass="form-control" AutoPostBack="True" OnSelectedIndexChanged="cmbConvenio_SelectedIndexChanged">                  
-                                </asp:DropDownList>
+                                    <asp:ListBox ID="cmbConvenio" runat="server" CssClass="form-control" SelectionMode="Multiple"></asp:ListBox>
+                                <%--<asp:DropDownList ID="cmbConvenio" runat="server" CssClass="form-control" SelectionMode="Multiple" AutoPostBack="True" OnSelectedIndexChanged="cmbConvenio_SelectedIndexChanged">                  
+                                </asp:DropDownList>--%>
                            </div>
 
-                                <div class="col-md-2">
-                                    <label>Proximo Pago</label>
-                                    <asp:DropDownList ID="cmbProximoPago" runat="server" CssClass="form-control" AutoPostBack="True" >                  
-                                    </asp:DropDownList>
+                                <div class="col-md-3">
+                                    <label>Proximo Pago (Desde Hoy hasta:)</label>
+                                    <asp:ListBox ID="cmbProximoPago" SelectionMode="Multiple" CssClass="form-control" runat="server"></asp:ListBox>
+                                    <%--<asp:DropDownList ID="cmbProximoPago" runat="server" CssClass="form-control" SelectionMode="Multiple" AutoPostBack="True" >                  
+                                    </asp:DropDownList>--%>
                                 </div>
                                 <div class="col-md-2">
                                     <label>Días desde último Pago</label>
-                                   <asp:TextBox ID="txtDiasUltimoPago" runat="server" CssClass="form-control" TextMode="Number" >120</asp:TextBox>
+                                   <asp:TextBox ID="txtDiasUltimoPago" runat="server" CssClass="form-control" TextMode="Number" min="0" >120</asp:TextBox>
                                 </div>
 
-                                  <div class="col-md-2">
+<%--                                  <div class="col-md-2">
                                     <label>Máximo días de Atraso</label>
                                    <asp:TextBox ID="txtDiasAtraso" runat="server" CssClass="form-control" TextMode="Number" >0</asp:TextBox>
-                                </div>
+                                </div>--%>
 
                                   <div class="col-md-2">
                                     <label>Banco del Cliente</label>
-                                  <asp:DropDownList ID="cmbBancoInicial" runat="server" CssClass="form-control">                                                      
+                                      <asp:ListBox ID="cmbBancoInicial" runat="server" SelectionMode="Multiple" CssClass="form-control">
+                                            <asp:ListItem>Todos</asp:ListItem>
+                                          <asp:ListItem>Banorte</asp:ListItem>
+                                         <asp:ListItem>Banamex</asp:ListItem>
+                                         <asp:ListItem>BBVA Bancomer</asp:ListItem>
+                                         <asp:ListItem>Santander</asp:ListItem>
+                                          <asp:ListItem>Tarjeta</asp:ListItem>
+                                          <asp:ListItem>Otros</asp:ListItem>
+                                      </asp:ListBox>
+                                  <%--<asp:DropDownList ID="cmbBancoInicial" runat="server" CssClass="form-control">                                                      
                                     <asp:ListItem Selected>Todos</asp:ListItem>
                                       <asp:ListItem>Banorte</asp:ListItem>
                                      <asp:ListItem>Banamex</asp:ListItem>
                                      <asp:ListItem>BBVA Bancomer</asp:ListItem>
                                      <asp:ListItem>Santander</asp:ListItem>
+                                      <asp:ListItem>Tarjeta</asp:ListItem>
                                       <asp:ListItem>Otros</asp:ListItem>
-                                </asp:DropDownList>
+                                </asp:DropDownList>--%>
                                  </div>
 
                                 <div class="col-md-3">
@@ -78,16 +96,14 @@
                                </div>
                                                              
                            </div>                               
-                   
-
-                       
-                            <hr />
-                            <h6 class="text-primary font-weight-bold">Particiones por Cuota</h6>
+                              </div>
+                            </div>
+                                                  
 
                             <div class="card">
                                         <div class="card-body bg-light">
-                                     <div class="form-row"> 
-
+                                            <h6 class="text-primary font-weight-bold">Particiones por Cuota</h6>
+                                     <div class="form-row">                             
                            <div class="col-md-2">
                                 <asp:Panel ID="panelParticionCuotaActual" runat="server" Visible="false">
                                     <label class="text-primary">Cuota Actual</label>
@@ -169,14 +185,9 @@
                                                  </asp:Panel>
                                 </div>
                                       
-                                   
-
-
-
                                             </div>
                                          </div>
-                                         </div>
-                        <hr />
+                                         </div>                        
                                                                                                            
     </asp:Panel>
 
@@ -184,7 +195,8 @@
                         <asp:Panel ID="panelPreviewDomiciliacion" runat="server" Visible="true">
 
                                         <asp:Panel ID="panelBancoCobranza" runat="server" Visible="false">
-                        <hr />    
+                        <div class="card">
+                            <div class="card-body">                            
                         <div class="form-row">                    
                             <div class="col-md-2">
                                 <label>Banco para Domiciliación</label>
@@ -194,28 +206,57 @@
                                      <asp:ListItem>Banamex</asp:ListItem>
                                      <asp:ListItem>BBVA Bancomer</asp:ListItem>
                                      <asp:ListItem>Santander</asp:ListItem>
-                                </asp:DropDownList>
+                                     <asp:ListItem>Tarjeta</asp:ListItem>
+                                    <asp:ListItem>BX+</asp:ListItem>                                  
+                                </asp:DropDownList>                                
                              </div>
               
                             <div class="col-md-2">
                                 <asp:Panel ID="panelEmisoraBanco" runat="server" Visible="false">
                                     <label>Emisora</label>
-                                    <asp:DropDownList ID="cmbBancoEmisora" runat="server" CssClass="form-control" >                                                                                 
-                                    </asp:DropDownList>                 
+                                    <asp:DropDownList ID="cmbBancoEmisora" runat="server" CssClass="form-control" AutoPostBack="True" OnSelectedIndexChanged="cmbBancoEmisora_SelectedIndexChanged" >                                                                                 
+                                    </asp:DropDownList> 
+                                    <asp:Label ID="lblEmisora" runat="server" CssClass="text-primary font-weight-bold"></asp:Label>
                                 </asp:Panel>
                            </div>
+
+                              <div class="col-md-2">
+                                <asp:Panel ID="panelTipodeCobro" runat="server" Visible="false">
+                                    <label>Tipo de Cobro</label>
+                                    <asp:DropDownList ID="cmbTipoCobro" runat="server" CssClass="form-control" AutoPostBack="True" OnSelectedIndexChanged="cmbTipoCobro_SelectedIndexChanged" >                                                                                 
+                                    </asp:DropDownList> 
+                                    <asp:Label ID="lblTipoCobro" runat="server" CssClass="text-primary font-weight-bold"></asp:Label>
+                                </asp:Panel>
+                           </div>
+
+                            
+                            <div class="col-md-2">                                
+                                <asp:Panel ID="panelModalidad" runat="server" Visible="false">
+                                    <label>Método de Cobro</label>
+                                    <asp:DropDownList ID="cmbMetodoCobro" runat="server" CssClass="form-control" AutoPostBack="True" OnSelectedIndexChanged="cmbMetodoCobro_SelectedIndexChanged" >                                                                                 
+                                        <asp:ListItem>Cuenta</asp:ListItem>
+                                        <asp:ListItem Selected>CLABE</asp:ListItem>
+                                    </asp:DropDownList>
+                                    <asp:Label ID="lblMetodoCobro" runat="server" CssClass="text-primary font-weight-bold"></asp:Label>
+                                 </asp:Panel>
+                           </div>
+                                <div class="col-md-2">                                
+                                    <asp:Panel ID="panelArchivoSalida" runat="server" Visible="false">
+                                    <label>Archivo de Salida</label>
+                                    <asp:DropDownList ID="cmbArchivoSalida" runat="server" CssClass="form-control" AutoPostBack="True" OnSelectedIndexChanged="cmbArchivoSalida_SelectedIndexChanged" >                                                                                 
+                                         <asp:ListItem Selected>Global</asp:ListItem>                
+                                        <asp:ListItem>Banco a Banco</asp:ListItem>
+                                        <asp:ListItem>Interbancario</asp:ListItem>
+                                    </asp:DropDownList>    
+                                        <asp:Label ID="lblArchivoSalida" runat="server" CssClass="text-primary font-weight-bold"></asp:Label>
+                                        </asp:Panel>
+                           </div>
+                                
 
                              <div class="col-md-2">
                                 <asp:Panel ID="panelHoraSantander" runat="server" Visible="false">
                                     <label>Hora de Ejecucion</label>
-                                    <asp:DropDownList ID="cmbHoraSantander" runat="server" CssClass="form-control" >                                                                                 
-                                        <asp:ListItem>00</asp:ListItem>
-                                        <asp:ListItem>01</asp:ListItem>
-                                        <asp:ListItem>02</asp:ListItem>
-                                        <asp:ListItem>03</asp:ListItem>
-                                        <asp:ListItem>04</asp:ListItem>
-                                        <asp:ListItem>05</asp:ListItem>
-                                        <asp:ListItem>06</asp:ListItem>
+                                    <asp:DropDownList ID="cmbHoraSantander" runat="server" CssClass="form-control" >                                                                                                                         
                                         <asp:ListItem>07</asp:ListItem>
                                         <asp:ListItem>08</asp:ListItem>
                                         <asp:ListItem>09</asp:ListItem>
@@ -228,45 +269,65 @@
                                         <asp:ListItem>16</asp:ListItem>
                                         <asp:ListItem>17</asp:ListItem>
                                         <asp:ListItem>18</asp:ListItem>
-                                        <asp:ListItem>19</asp:ListItem>
-                                        <asp:ListItem>20</asp:ListItem>
-                                        <asp:ListItem>21</asp:ListItem>
-                                        <asp:ListItem>22</asp:ListItem>
-                                        <asp:ListItem>23</asp:ListItem>
                                     </asp:DropDownList>                 
                                 </asp:Panel>
                            </div>
+                            </div>
+                                </div>
+                            </div>
 
+                            <div class="card">
+                                <div class="card-body">  
+                                     <div class="form-row">  
                             <div class="col-md-2">
                                  <asp:Panel ID="panelCargaCSV" runat="server" Visible="false">                                
                                 <label>Archivo para Carga</label>
-                                <asp:FileUpload ID="uploadCSVCobranza" runat="server" CssClass="form-control" />                                
+                                <asp:FileUpload ID="uploadCSVCobranza" runat="server" CssClass="form-control" />  
+                                <asp:LinkButton ID="btnDescargaEjemploCobranzaLayout" runat="server" CssClass="btn btn-primary btn-block" OnClick="btnDescargaEjemploCobranzaLayout_Click" >  <i class="fas fa-question"></i> Descargar un Ejemplo</asp:LinkButton>
                             </asp:Panel>
                                 </div>
 
 
-                            <div class="col-md-2">   
-                                      <label class="text-white">P</label>
-                                      <asp:LinkButton ID="btnPreviewEstrategia" runat="server" CssClass="btn btn-info font-btn btn-block" OnClick="btnPreviewEstrategia_Click">Vista Previa</asp:LinkButton>
-                                </div>                             
-
-                            <div class="col-md-2" style="display:flex;align-items:flex-end;">
-                                <asp:LinkButton ID="btnGenerarCobranza" runat="server" CssClass="btn btn-success font-btn btn-block" OnClick="btnGenerarCobranza_Click" Visible="False">Generar Layout</asp:LinkButton>
+                                      
+                                            <div class="col-md-10">   
+                                       <div class="btn-group" role="group" aria-label="Basic example">
+                                <asp:LinkButton ID="btnPreviewEstrategia" runat="server" CssClass="btn btn-info" OnClick="btnPreviewEstrategia_Click">  <i class="far fa-eye fa-spin"></i> Vista Previa</asp:LinkButton>                                             
+                                <asp:LinkButton ID="btnValidaEstrategia" runat="server" CssClass="btn btn-dark" visible="false" OnClick="btnValidaEstrategia_Click">  <i class="far fa-eye fa-spin"></i> Valida Estrategia</asp:LinkButton>                                            
+                                <asp:LinkButton ID="btnConstruirArchivo" runat="server" Visible="false" CssClass="btn btn-secondary " OnClick="btnConstruirArchivo_Click" > Construir Archivo</asp:LinkButton>                              
+                                <asp:LinkButton ID="btnValidacionExcel" runat="server" CssClass="btn btn-info" Visible="False" OnClick="btnValidacionExcel_Click" >  Validación en Excel </asp:LinkButton>
+                                <asp:LinkButton ID="btnGenerarCobranza" runat="server" CssClass="btn btn-success " OnClick="btnGenerarCobranza_Click" Visible="False">Descargar Archivo</asp:LinkButton>
+                                           </div>
+                                                <asp:Label ID="lblAlertaTotales" runat="server" CssClass="text-primary font-weight-bold"></asp:Label>
                             </div>
 
                         </div>
-
+                            </div>
+                        </div>
                     </asp:Panel>
 
-                            <hr />
+                            
                      
                         <asp:Panel ID="panelPreviewEstrategia" runat="server" Visible="false">
                              <div class="card">
+                                <div class="card-body" >
                                  
-                    <h5 class="text-primary">Vista Previa de Estrategia de Cobranza</h5>
+                      <asp:Label ID="lblFILENAME" runat="server" CssClass="text-primary font-weight-bold"></asp:Label>
+                    <%--<h5 class="text-primary">Vista Previa de Estrategia de Cobranza</h5>--%>
                      <asp:GridView ID="dgvPreviewEstrategia" runat="server" CssClass="table table-responsive table-bordered table-hover table-sm" AutoGenerateColumns="True" >
-                        <SelectedRowStyle BackColor="#FFFF66" Font-Bold="True" ForeColor="#333333" />
+                        <HeaderStyle CssClass="thead-dark" />
+                         <SelectedRowStyle BackColor="#FFFF66" Font-Bold="True" ForeColor="#333333" />
                      </asp:GridView>
+
+                     <asp:GridView ID="dgvBodyCobranza" runat="server" CssClass="table table-responsive table-bordered table-hover table-sm" AutoGenerateColumns="True" >
+                        <HeaderStyle CssClass="thead-dark" />
+                                      <SelectedRowStyle BackColor="#FFFF66" Font-Bold="True" ForeColor="#333333" />
+                     </asp:GridView>
+
+                    <asp:GridView ID="dgvFooterCobranza" runat="server" CssClass="table table-responsive table-bordered table-hover table-sm" AutoGenerateColumns="True" >
+                        <HeaderStyle CssClass="thead-dark" />
+                                      <SelectedRowStyle BackColor="#FFFF66" Font-Bold="True" ForeColor="#333333" />
+                     </asp:GridView>
+                    </div>
                 </div>
                         </asp:Panel>
 
@@ -274,7 +335,7 @@
 
 
                              <asp:Panel ID="panelRespuestasCobranza" runat="server" visible="false">
-                                 <hr />
+                                 
                              <div class="form-row">                    
                             <div class="col-md-3">
                             
@@ -284,7 +345,10 @@
                                     <asp:ListItem>Banorte En Linea</asp:ListItem>
                                      <asp:ListItem>Banorte Especializada</asp:ListItem>
                                      <asp:ListItem>BBVA Bancomer</asp:ListItem>
-                                     <asp:ListItem>Santander</asp:ListItem>                                    
+                                     <asp:ListItem>Santander</asp:ListItem> 
+                                     <asp:ListItem>Santander Validaciones</asp:ListItem>
+                                     <asp:ListItem>Tarjeta</asp:ListItem>
+                                    <asp:ListItem>BX+</asp:ListItem>
                                 </asp:DropDownList>
                              </div>
                                 <div class="col-md-2">
@@ -303,11 +367,15 @@
                                     <asp:LinkButton ID="btnDownloadRespuestas" runat="server" CssClass="btn btn-success font-btn btn-block" Visible="false" OnClick="btnDownloadRespuestas_Click">Descargar</asp:LinkButton>
                                 </div>
                             </div>    
-                                 <hr />
+                                
 
                                    <asp:GridView ID="dgvRespuestasCobranza" runat="server" CssClass="table table-responsive table-bordered table-hover table-sm" AutoGenerateColumns="True" >
-                        <SelectedRowStyle BackColor="#FFFF66" Font-Bold="True" ForeColor="#333333" />
+                        <HeaderStyle CssClass="thead-dark" />
+                                       <SelectedRowStyle BackColor="#FFFF66" Font-Bold="True" ForeColor="#333333" />
                      </asp:GridView>
+
+
+                                  
 
                         </asp:Panel>
 

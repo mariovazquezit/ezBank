@@ -83,12 +83,30 @@ namespace ezBank.Views
                 "FROM ZELLSALDOSCARTERA AS A " +
                 "LEFT JOIN ZELLCONVENIOS AS B " +
                 "ON A.Dependencia = B.vDescription " +
-                "WHERE A.SIGPAGO IS NOT NULL AND A.SIGPAGO<=getdate()+7 And DiasUltimoPago<= 120 AND A.PagoenExceso >= 0 AND(AmortPagadas / Pagos) < 1 " +
+                "WHERE A.SIGPAGO IS NOT NULL AND A.SIGPAGO>=getdate()-3 and A.SIGPAGO<=getdate()+7 And DiasUltimoPago<= 120  AND(AmortPagadas / Pagos) < 1 " +
                 "AND(A.ESTATUS = 'Activo') " +
                 "GROUP BY CONVERT(VARCHAR, A.SIGPAGO, 126),B.SuperConvenio, B.Producto " +
                   "ORDER BY CONVERT(VARCHAR, A.SIGPAGO,126),B.SuperConvenio, B.Producto ";  
             dgvExigible.DataSource = principalClass.Read(Consultax);
             dgvExigible.DataBind();
+
+
+
+
+            ///// ULTIMA ACTUALIZACION DE CARTERA
+            SqlCommand sp3 = new SqlCommand("SP_REPORTES", conexion);
+            sp3.CommandType = CommandType.StoredProcedure;
+            sp3.CommandTimeout = 900;
+            sp3.Parameters.AddWithValue("@idReporte",27);
+
+            conexion.Open();
+            SqlDataAdapter da3 = new SqlDataAdapter(sp3);
+            DataTable dt3 = new DataTable();
+            da3.Fill(dt3);
+            string ultimaActualizacionCartera = dt3.Rows[0][0].ToString();
+            conexion.Close();
+
+            lblUltimaActualizacion.Text = "Ultima Actualización de Cartera: " +  ultimaActualizacionCartera;
 
             /////GRAFICO CALENDARIO PAGOS
             ///

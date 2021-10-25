@@ -37,14 +37,34 @@ namespace ezBank.Views
                 SqlDataAdapter Adaptador = new SqlDataAdapter(Comando);
                 DataTable tabla = new DataTable();
 
+
+                string idAfiliacionMaximo;
+                string Consulta2 = "select dbo.fn_getAfiliacionConsecutivoMaximo(1)";
+                SqlCommand Comando2 = new SqlCommand(Consulta2, con);
+                SqlDataAdapter Adaptador2 = new SqlDataAdapter(Comando2);
+                DataTable tabla2 = new DataTable();
+
+
+
                 con.Open();
                 Adaptador.Fill(tabla);
                 cmbEmisora.DataSource = tabla;
                 cmbEmisora.DataTextField = "EMISORA";
                 cmbEmisora.DataBind();
+
+                Adaptador2.Fill(tabla2);
+                idAfiliacionMaximo = tabla2.Rows[0][0].ToString();
+                txtIdAfiliacion.Text = idAfiliacionMaximo;
                 con.Close();
 
+                string idEmisora = cmbEmisora.Text;
+                actualizarNombreEmisora(idEmisora);
 
+                string TipoArchivo = cmbTipoArchivo.Text;
+                actualizarTipoArchivo(TipoArchivo);
+
+                string AfiliarXPor = cmbAfiliarClabeCuenta.Text;
+                actualizarAfiliarpor(AfiliarXPor);
 
             }
             else
@@ -54,12 +74,83 @@ namespace ezBank.Views
 
         }
 
+        
+
+
+        protected void actualizarAfiliarpor(string AfiliarPor)
+        {
+            string TipoArchivo = cmbTipoArchivo.Text;
+            
+            if (AfiliarPor=="Cuenta" && TipoArchivo == "Interbancario")
+            {
+                Response.Write("<script>alert('ADVERTENCIA: No se pueden afiliar Interbancarios por Cuenta');</script>");
+                cmbAfiliarClabeCuenta.Text = "CLABE";
+                return;
+            }
+            
+            if (AfiliarPor == "Cuenta")
+            {
+                lblAfiliarPor.Text = "Banorte por Cuenta, Otros por CLABE";
+            }else if (AfiliarPor == "CLABE")
+            {
+                lblAfiliarPor.Text = "Banorte y Otros, por CLABE";
+            }
+            
+             
+        }
+
+        protected void actualizarTipoArchivo(string TipoArchivo)
+        {
+
+            string AfiliarPor = cmbAfiliarClabeCuenta.Text;
+
+            if (AfiliarPor == "Cuenta" && TipoArchivo == "Interbancario")
+            {
+                Response.Write("<script>alert('ADVERTENCIA: No se pueden afiliar Interbancarios por Cuenta');</script>");
+                cmbAfiliarClabeCuenta.Text = "CLABE";
+                return;
+            }
+
+
+            if (TipoArchivo == "Global")
+            {
+                lblTipoArchivo.Text = "Interbancario + Banco a Banco";
+            }else if (TipoArchivo == "Banco a Banco")
+            {
+                lblTipoArchivo.Text = "Sólo Créditos Banorte";
+            }
+            else if (TipoArchivo == "Interbancario")
+            {
+                lblTipoArchivo.Text = "Todos los Bancos, excepto Banorte";
+            }
+
+        }
+
+        protected void actualizarNombreEmisora(string idEmisora)
+        {
+            string cs = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
+            SqlConnection con = new SqlConnection(cs);
+            string Consulta = "select Descripcion from catEmisoras where Emisora='"+idEmisora+"' and Banco='Banorte'";
+            SqlCommand Comando = new SqlCommand(Consulta, con);
+            SqlDataAdapter Adaptador = new SqlDataAdapter(Comando);
+            DataTable tabla = new DataTable();
+
+            string NombreEmisora;
+
+            Adaptador.Fill(tabla);
+            NombreEmisora = tabla.Rows[0][0].ToString();
+            lblNombreEmisora.Text = NombreEmisora;
+            
+           
+        }
+
+
         protected void btnDownloadAfiliadosPendientes_Click(object sender, EventArgs e)
         {
 
             string cs = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
 
-            string EmisoraEnLinea = "SELECT TOP 1 Emisora FROM catEmisoras WHERE Banco='Banorte' and Descripcion='En Linea'";
+            string EmisoraEnLinea = "SELECT TOP 1 Emisora FROM catEmisoras WHERE Banco='Banorte' and Descripcion='SIN REINTENTOS'";
             string EmisoraEspecializada = "SELECT TOP 1 Emisora FROM catEmisoras WHERE Banco='Banorte' and Descripcion='ESPECIALIZADA'";
 
             SqlConnection conexion = new SqlConnection(cs);
@@ -149,28 +240,28 @@ namespace ezBank.Views
                 panelAfiliacion.Visible = false;
                 panelCargaCSV.Visible = false;
                 panelCargaRespuestas.Visible = false;
-                panelBancoDocumentacion.Visible = false;
+                ///panelBancoDocumentacion.Visible = false;
             }
             else if (cmbMetodoAfiliacion.Text == "Carga Excel")
             {
                 panelAfiliacion.Visible = true;
                 panelCargaCSV.Visible = true;
                 panelCargaRespuestas.Visible = false;
-                panelBancoDocumentacion.Visible = true;
+                ///panelBancoDocumentacion.Visible = true;
             }
             else if (cmbMetodoAfiliacion.Text == "Consulta de Cartera")
             {
                 panelAfiliacion.Visible = true;
                 panelCargaCSV.Visible = false;
                 panelCargaRespuestas.Visible = false;
-                panelBancoDocumentacion.Visible = true;
+                ///panelBancoDocumentacion.Visible = true;
             }
             else if (cmbMetodoAfiliacion.Text == "Carga de Respuestas Bancarias")
             {
                 panelAfiliacion.Visible = false;
                 panelCargaCSV.Visible = false;
                 panelCargaRespuestas.Visible = true;
-                panelBancoDocumentacion.Visible = false;
+                ///panelBancoDocumentacion.Visible = false;
             }
 
 
@@ -277,29 +368,36 @@ namespace ezBank.Views
 
         protected void btnGenerarArchivo_Click(object sender, EventArgs e)
         {
-            string Emisora = cmbEmisora.Text;
             string TipoArchivo = cmbTipoArchivo.Text;
-            string CanalAfiliacion = cmbMetodoAfiliacion.Text;
-            int idCanalAfiliacion = 0;
+            string AfiliarPor = cmbAfiliarClabeCuenta.Text;
+            string Emisora = cmbEmisora.Text;
+            long SiguienteAfiliacion = Int64.Parse(txtIdAfiliacion.Text);
 
-            if (CanalAfiliacion == "Consulta de Cartera")
-            {
-                idCanalAfiliacion = 1;
+            if (SiguienteAfiliacion<=0){
+                Response.Write("<script>alert('ERROR: El Id de Afiliación debe ser mayor o igual a 1');</script>");
             }
-            else if (CanalAfiliacion == "Carga Excel")
-            {
-                idCanalAfiliacion = 2;
-            }
+
+            //string CanalAfiliacion = cmbMetodoAfiliacion.Text;
+            //int idCanalAfiliacion = 0;
+            //if (CanalAfiliacion == "Consulta de Cartera")
+            //{
+            //    idCanalAfiliacion = 1;
+            //}
+            //else if (CanalAfiliacion == "Carga Excel")
+            //{
+            //    idCanalAfiliacion = 2;
+            //}
 
 
             string ConexionConfig = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
             SqlConnection conexion = new SqlConnection(ConexionConfig);
 
-            SqlCommand SP_AFILIACION = new SqlCommand("SP_OPERACIONESCARTERA", conexion);
+            SqlCommand SP_AFILIACION = new SqlCommand("SP_AFILIACION_BANORTE", conexion);
             SP_AFILIACION.CommandType = CommandType.StoredProcedure;
-            SP_AFILIACION.Parameters.AddWithValue("@idProceso", idCanalAfiliacion);
-            SP_AFILIACION.Parameters.AddWithValue("@valor", Emisora);
-            SP_AFILIACION.Parameters.AddWithValue("@valor2", TipoArchivo);
+            SP_AFILIACION.Parameters.AddWithValue("@TipoArchivo", TipoArchivo);
+            SP_AFILIACION.Parameters.AddWithValue("@AfiliarPor", AfiliarPor);
+            SP_AFILIACION.Parameters.AddWithValue("@Emisora", Emisora);
+            SP_AFILIACION.Parameters.AddWithValue("@SiguienteAfiliacion", SiguienteAfiliacion);
 
             conexion.Open();
             SP_AFILIACION.ExecuteNonQuery();
@@ -308,16 +406,32 @@ namespace ezBank.Views
             //////////////
             panelPreview.Visible = true;
             DataTable DGVPreview = new DataTable();
-            DGVPreview = principalClass.SP_Reportes(17);
+            DGVPreview = principalClass.SP_Reportes(34);
 
             dgvPendientesAfiliacion.DataSource = DGVPreview;
             dgvPendientesAfiliacion.DataBind();
+            
+            DGVPreview = principalClass.SP_Reportes(35);
+
+            dgvAfiliacionBody.DataSource = DGVPreview;
+            dgvAfiliacionBody.DataBind();
+
+            btnDescargarArchivo.Visible = true;
+            btnValidacionExcel.Visible = true;
+
+            string QueryFileName = "SELECT ARCHIVO FROM OPTCONSECUTIVOSAFILIACION " +
+               "WHERE BANCO = 'BANORTE' AND FECHA = CONVERT(VARCHAR, GETDATE(), 126) " +
+               "AND CONSECUTIVO = dbo.fn_getConsecutivoAfiliacion('BANORTE', CONVERT(VARCHAR, GETDATE(), 126))";
+            DataTable TableFileName = principalClass.Read(QueryFileName);
+            string FileName = TableFileName.Rows[0][0].ToString();
+            lblFileName.Text ="El nombre del Archivo será: " + FileName;
+
+            Response.Write("<script>alert('ADVERTENCIA: Recuerda que la Banca sólo te deja subir un archivo de afiliación por Emisora al día');</script>");
+
+           
             ////
             ///
-            DownloadAfiliacion();
-
-            Response.Write("<script>alert('ADVERTENCIA: Recuerda que la Banca Electrónica sólo te deja subir un archivo de afiliación por Emisora al día');</script>");
-
+          
         }
 
 
@@ -328,7 +442,7 @@ namespace ezBank.Views
                 "AND CONSECUTIVO = dbo.fn_getConsecutivoAfiliacion('BANORTE', CONVERT(VARCHAR, GETDATE(), 126))";
             DataTable TableFileName = principalClass.Read(QueryFileName);
             string FileName = TableFileName.Rows[0][0].ToString();
-
+            lblFileName.Text = FileName;
             /////////
             ///
             string cs = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
@@ -370,13 +484,17 @@ namespace ezBank.Views
             }
             Response.End();
 
+
         }
 
         protected void btnVistaPreviaAfiliaciones_Click(object sender, EventArgs e)
         {
             string MetodoCobranza = cmbMetodoAfiliacion.Text;
-            string Tipoarchivo = cmbTipoArchivo.Text;
-            string CONSULTAX = null;
+            string Tipoarchivo = cmbTipoArchivo.Text;            
+            int idReporte = 0;
+
+            string cs = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
+            SqlConnection con = new SqlConnection(cs);
 
             if (MetodoCobranza == "")
             {
@@ -385,31 +503,20 @@ namespace ezBank.Views
             else if (MetodoCobranza == "Consulta de Cartera")
             {
 
+                if (Tipoarchivo == "Global")
+                {
+                    idReporte = 30;
+                }
+
                 if (Tipoarchivo == "Banco a Banco")
                 {
-                    CONSULTAX = "SELECT IDCREDITO AS Credito, CONVERT(VARCHAR,PRIMERPAGOTEORICO,23) AS PrimerPago, " +
-                        "TIPOFINANCIAMIENTO as Producto,Dependencia, dbo.fn_getCLABEsinComilla(CLABE) AS CLABE, dbo.fn_getCuentaXClabe(CLABE) AS Cuenta, dbo.fn_getBancoNombrexCLABE(CLABE) as Banco " +
-                        " FROM zellSaldosCartera " +
-                        "WHERE dbo.fn_getBancoNombrexCLABE(CLABE)='BANORTE' AND " +
-                        "(dbo.fn_getEmisoraExitosaAfiliada(IDCREDITO, '00950') = 0 OR " +
-                        "dbo.fn_getEmisoraExitosaAfiliada(IDCREDITO, '01077') = 0 )" +
-                        "ORDER BY PrimerPagoTeorico ASC";
+                    idReporte = 31;
                 }
                 if (Tipoarchivo == "Interbancario")
                 {
-                    CONSULTAX = "SELECT IDCREDITO AS Credito, CONVERT(VARCHAR,PRIMERPAGOTEORICO,23) AS PrimerPago, " +
-                        "TIPOFINANCIAMIENTO as Producto,Dependencia, dbo.fn_getCLABEsinComilla(CLABE) AS CLABE, dbo.fn_getBancoNombrexCLABE(CLABE) as Banco " +
-                        " FROM zellSaldosCartera " +
-                        "WHERE dbo.fn_getBancoNombrexCLABE(CLABE)<>'BANORTE' AND " +
-                        "(dbo.fn_getEmisoraExitosaAfiliada(IDCREDITO, '00950') = 0 OR " +
-                        "dbo.fn_getEmisoraExitosaAfiliada(IDCREDITO, '01077') = 0 )" +
-                        "ORDER BY PrimerPagoTeorico ASC";
+                    idReporte = 32;
                 }
-
-                panelPreview.Visible = true;
-                btnGenerarArchivo.Visible = true;
-                dgvPendientesAfiliacion.DataSource = principalClass.Read(CONSULTAX);
-                dgvPendientesAfiliacion.DataBind();
+             
             }
             else if (MetodoCobranza == "Carga Excel")
             {
@@ -457,11 +564,10 @@ namespace ezBank.Views
                         ///
                         ////
                         //// insertar Datatable en la base de datos                        
-                        string cs = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
-                        SqlConnection con = new SqlConnection(cs);
+                        
                         SqlCommand sp = new SqlCommand("SP_MANUAL_AFILIACION", con);
                         sp.CommandType = CommandType.StoredProcedure;
-                        sp.CommandTimeout = 900;
+                        sp.CommandTimeout = 9000;
                         sp.Parameters.AddWithValue("@tblAfiliacion", dt);
                         sp.Parameters.AddWithValue("@TipoArchivo", Tipoarchivo);
 
@@ -469,30 +575,49 @@ namespace ezBank.Views
                         sp.ExecuteNonQuery();
                         con.Close();
 
-
-
-                        SqlCommand sp2 = new SqlCommand("SP_REPORTES", con);
-                        sp2.CommandType = CommandType.StoredProcedure;
-                        sp2.CommandTimeout = 900;
-                        sp2.Parameters.AddWithValue("@idReporte", 22);
-                        con.Open();
-
-                        SqlDataAdapter da = new SqlDataAdapter(sp2);
-                        DataTable dt2 = new DataTable();
-                        da.Fill(dt2);
-
-
-
-                        panelPreview.Visible = true;
-                        btnGenerarArchivo.Visible = true;
-                        dgvPendientesAfiliacion.DataSource = dt2;
-                        dgvPendientesAfiliacion.DataBind();
-
-
+                        idReporte = 22;
+                      
                     }
                 }
 
             }
+
+            SqlCommand sp2 = new SqlCommand("SP_REPORTES", con);
+            sp2.CommandType = CommandType.StoredProcedure;
+            sp2.CommandTimeout = 900;
+            sp2.Parameters.AddWithValue("@idReporte", idReporte);
+            con.Open();
+
+            SqlDataAdapter da = new SqlDataAdapter(sp2);
+            DataTable dt2 = new DataTable();
+            da.Fill(dt2);
+
+            panelPreview.Visible = true;
+            btnGenerarArchivo.Visible = true;
+            dgvPendientesAfiliacion.DataSource = dt2;
+            dgvPendientesAfiliacion.DataBind();
+            con.Close();
+            
+            idReporte = 33;
+            
+
+                SqlCommand sp3 = new SqlCommand("SP_REPORTES", con);
+                sp3.CommandType = CommandType.StoredProcedure;
+                sp3.CommandTimeout = 900;
+                sp3.Parameters.AddWithValue("@idReporte", idReporte);
+          con.Open();
+                SqlDataAdapter da3 = new SqlDataAdapter(sp3);
+                DataTable dt3 = new DataTable();
+                da3.Fill(dt3);
+
+            string AlertaTotales= dt3.Rows[0][0].ToString();
+            string AlertaInterbancario= dt3.Rows[0][2].ToString(); ;
+            string AlertaBancoABanco= dt3.Rows[0][1].ToString(); ;
+
+            lblAlertaTotales.Text = "Resumen -> Créditos Totales: " + AlertaTotales +
+                " /Banco a Banco: " + AlertaBancoABanco + " /Interbancario: " + AlertaInterbancario;
+
+            con.Close();
 
 
         }
@@ -599,6 +724,123 @@ namespace ezBank.Views
                                 Response.Charset = "";
                                 Response.ContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
                                 Response.AddHeader("content-disposition", "attachment;filename= RespuestasAfiliacion.xlsx");
+                                using (MemoryStream MyMemoryStream = new MemoryStream())
+                                {
+                                    wb.SaveAs(MyMemoryStream);
+                                    MyMemoryStream.WriteTo(Response.OutputStream);
+                                    Response.Flush();
+                                    Response.End();
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        protected void btnAfiliacionEjemploLayout_Click(object sender, EventArgs e)
+        {
+            string cs = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
+            SqlConnection con = new SqlConnection(cs);
+            SqlCommand sp = new SqlCommand("SP_REPORTES", con);
+            sp.CommandType = CommandType.StoredProcedure;
+            sp.CommandTimeout = 900;
+            sp.Parameters.AddWithValue("@IdReporte", 17);
+
+            con.Open();
+            SqlDataAdapter da = new SqlDataAdapter(sp);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            con.Close();
+
+            using (XLWorkbook wb = new XLWorkbook())
+            {
+                dt.TableName = "Ejemplo";
+                wb.Worksheets.Add(dt);
+                //Export the Excel file.
+                Response.Clear();
+                Response.Buffer = true;
+                Response.Charset = "";
+                Response.ContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+                Response.AddHeader("content-disposition", "attachment;filename=EjemploAfiliacion.xlsx");
+                using (MemoryStream MyMemoryStream = new MemoryStream())
+                {
+                    wb.SaveAs(MyMemoryStream);
+                    MyMemoryStream.WriteTo(Response.OutputStream);
+                    Response.Flush();
+                    Response.End();
+                }
+            }
+        }
+
+        protected void cmbEmisora_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string idEmisora = cmbEmisora.Text;
+            actualizarNombreEmisora(idEmisora);
+        }
+
+        protected void cmbTipoArchivo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string TipoArchivo = cmbTipoArchivo.Text;
+            actualizarTipoArchivo(TipoArchivo);
+        }
+
+        protected void cmbAfiliarClabeCuenta_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string AfiliarXPor = cmbAfiliarClabeCuenta.Text;
+            actualizarAfiliarpor(AfiliarXPor);
+
+        }
+
+        protected void btnDescargarArchivo_Click(object sender, EventArgs e)
+        {
+            DownloadAfiliacion();
+        }
+
+        protected void btnValidacionExcel_Click(object sender, EventArgs e)
+        {
+
+            string QueryFileName = "SELECT ARCHIVO FROM OPTCONSECUTIVOSAFILIACION " +
+              "WHERE BANCO = 'BANORTE' AND FECHA = CONVERT(VARCHAR, GETDATE(), 126) " +
+              "AND CONSECUTIVO = dbo.fn_getConsecutivoAfiliacion('BANORTE', CONVERT(VARCHAR, GETDATE(), 126))";
+            DataTable TableFileName = principalClass.Read(QueryFileName);
+            string FileName = TableFileName.Rows[0][0].ToString();
+
+            string cs = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;            
+            
+            string query = "SELECT * FROM pasoAfiliacionBanorteHeader;"+
+                "SELECT * FROM pasoAfiliacionBanorteBody;";
+
+            ///GENERO EL REPORTE EN EXCEL            
+            using (SqlConnection con = new SqlConnection(cs))
+            {
+                using (SqlCommand cmd = new SqlCommand(query))
+                {
+                    using (SqlDataAdapter sda = new SqlDataAdapter())
+                    {
+                        cmd.Connection = con;
+                        cmd.CommandTimeout = 9000;
+                        sda.SelectCommand = cmd;
+                        using (DataSet ds = new DataSet())
+                        {
+                            sda.Fill(ds);
+                            //Set Name of DataTables.                            
+                            ds.Tables[0].TableName = "Header";
+                            ds.Tables[1].TableName = "Body";
+                            using (XLWorkbook wb = new XLWorkbook())
+                            {
+                                foreach (DataTable dt in ds.Tables)
+                                {
+                                    //Add DataTable as Worksheet.
+                                    wb.Worksheets.Add(dt);
+                                }
+
+                                //Export the Excel file.
+                                Response.Clear();
+                                Response.Buffer = true;
+                                Response.Charset = "";
+                                Response.ContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+                                Response.AddHeader("content-disposition", "attachment;filename="+FileName+".xlsx");
                                 using (MemoryStream MyMemoryStream = new MemoryStream())
                                 {
                                     wb.SaveAs(MyMemoryStream);
