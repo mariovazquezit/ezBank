@@ -63,7 +63,7 @@ namespace ezBank.Views
 
         protected void btnCatConsecutivos_Click(object sender, EventArgs e)
         {
-            String Consulta = "SELECT * FROM catConsecutivoLetras";
+            String Consulta = "SELECT * FROM catConsecutivoLetras order by Consecutivo";
             actualizaGridCatalogo(Consulta);            
         }
 

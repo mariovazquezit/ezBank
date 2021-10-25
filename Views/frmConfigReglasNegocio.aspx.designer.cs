@@ -51,6 +51,15 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.LinkButton btnCatPerfiles;
 
         /// <summary>
+        /// Control btnCatConfiguracion.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnCatConfiguracion;
+
+        /// <summary>
         /// Control panelCatDatosDomi.
         /// </summary>
         /// <remarks>
@@ -202,6 +211,15 @@ namespace ezBank.Views
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtEmisoraDescripcion;
+
+        /// <summary>
+        /// Control txtRFC.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtRFC;
 
         /// <summary>
         /// Control btnEmisoraGuardar.
@@ -391,5 +409,41 @@ namespace ezBank.Views
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView dgvCatPerfiles;
+
+        /// <summary>
+        /// Control panelCatConfiguracion.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel panelCatConfiguracion;
+
+        /// <summary>
+        /// Control txtConfiguracionNombreSistema.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtConfiguracionNombreSistema;
+
+        /// <summary>
+        /// Control txtConfiguracionNombreFinanciera.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtConfiguracionNombreFinanciera;
+
+        /// <summary>
+        /// Control btnCatConfiguracion_GUARDAR.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnCatConfiguracion_GUARDAR;
     }
 }

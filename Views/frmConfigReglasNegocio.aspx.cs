@@ -1,6 +1,9 @@
 ﻿using ezBank.Classes;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -26,6 +29,7 @@ namespace ezBank.Views
             if (!Page.IsPostBack)
             {
                 showCatalogos();
+                
             }
 
 
@@ -36,6 +40,30 @@ namespace ezBank.Views
             panelCatDatosDomi.Visible = false;
             panelCatEmisoras.Visible = false;
             panelCatPerfiles.Visible = false;
+            panelCatConfiguracion.Visible = false;
+        }
+
+        protected void showConfiguracion()
+        {
+
+            string Query = "select valorString from  catConfiguracion";
+
+            string ConexionConfig = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString;
+            SqlConnection conexion = new SqlConnection(ConexionConfig);
+            SqlCommand comando = new SqlCommand(Query, conexion);
+            SqlDataAdapter adaptador = new SqlDataAdapter(comando);
+            DataTable tablaResultado = new DataTable();
+
+            conexion.Open();
+            adaptador.Fill(tablaResultado);
+
+            string nombreSistema = tablaResultado.Rows[0][0].ToString();
+            string nombreFinanciera = tablaResultado.Rows[1][0].ToString();
+
+            conexion.Close();
+
+            txtConfiguracionNombreFinanciera.Text = nombreFinanciera;
+            txtConfiguracionNombreSistema.Text = nombreSistema;
         }
 
         protected void showCatalogos()
@@ -99,6 +127,7 @@ namespace ezBank.Views
             string Emisora = dgvCatEmisoras.SelectedRow.Cells[2].Text;
             string Banco = dgvCatEmisoras.SelectedRow.Cells[3].Text;
             string Descripcion = dgvCatEmisoras.SelectedRow.Cells[4].Text;
+            string RFC= dgvCatEmisoras.SelectedRow.Cells[5].Text;
 
             if (Emisora == "&nbsp;")
             {
@@ -119,6 +148,7 @@ namespace ezBank.Views
             txtEmisora.Text = Emisora;
             txtEmisoraBanco.Text = Banco;
             txtEmisoraDescripcion.Text = Descripcion;
+            txtRFC.Text = RFC;
 
             btnEmisoraGuardar.Visible = false;
             btnEmisoraEditar.Visible = true;
@@ -177,7 +207,7 @@ namespace ezBank.Views
             txtEmisoraBanco.Text = "";
             txtEmisoraDescripcion.Text = "";
             txtEmisora.Text = "";
-
+            txtRFC.Text = "";
 
             txtDomiBanco.Text = "";
             txtDomiRazonSocial.Text = "";
@@ -228,6 +258,7 @@ namespace ezBank.Views
             string Emisora = txtEmisora.Text;
             string Banco = txtEmisoraBanco.Text;
             string Descripcion = txtEmisoraDescripcion.Text;
+            string RFC = txtRFC.Text;
 
             if (Banco == "" || Emisora == "")
             {
@@ -235,8 +266,8 @@ namespace ezBank.Views
                 return;
             }
 
-            string Query = "INSERT INTO catEmisoras (Emisora, Banco, Descripcion) " +
-                "VALUES('" + Emisora + "','" + Banco + "','" + Descripcion + "')";
+            string Query = "INSERT INTO catEmisoras (Emisora, Banco, Descripcion, RFC) " +
+                "VALUES('" + Emisora + "','" + Banco + "','" + Descripcion + "','"+RFC+"')";
 
             int rowsAffected = principalClass.CUD(Query);
 
@@ -305,10 +336,11 @@ namespace ezBank.Views
             string idEmisora = txtEmisoraID.Text;
             string Emisora = txtEmisora.Text;
             string Banco = txtEmisoraBanco.Text;
-            string Descripcion = txtEmisoraDescripcion.Text;            
+            string Descripcion = txtEmisoraDescripcion.Text;
+            string RFC = txtRFC.Text;
 
             string Query = "UPDATE catEmisoras SET Emisora='" + Emisora + "',Banco='" + Banco + "', " +
-                "Descripcion='" + Descripcion + "' WHERE Id=" + idEmisora + "";
+                "Descripcion='" + Descripcion + "',RFC='"+RFC+"' WHERE Id=" + idEmisora + "";
 
             int rowsAffected = principalClass.CUD(Query);
             string Alerta = principalClass.alertasCUD(rowsAffected);
@@ -375,6 +407,31 @@ namespace ezBank.Views
             string Alerta = principalClass.alertasCUD(rowsAffected);
             Response.Write(Alerta);
             limpiarFormularios();
+        }
+
+        protected void btnCatConfiguracion_Click(object sender, EventArgs e)
+        {
+            ocularPaneles();
+            showConfiguracion();
+            panelCatConfiguracion.Visible = true;
+        }
+
+        protected void btnCatConfiguracion_GUARDAR_Click(object sender, EventArgs e)
+        {            
+            string NombreSistema=txtConfiguracionNombreSistema.Text;
+            string NombreFinanciera = txtConfiguracionNombreFinanciera.Text;
+
+            string Query = "update catConfiguracion set ValorString = '"+NombreSistema+"'"+
+                            "where Configuracion = 'Nombre Sistema'";
+
+            string Query2 = "update catConfiguracion set ValorString = '" + NombreFinanciera + "'" +
+                            "where Configuracion = 'Nombre Financiera'";
+
+            int rowsAffected = principalClass.CUD(Query);
+            int rowsAffected2 = principalClass.CUD(Query2);
+
+            string Alerta = principalClass.alertasCUD(rowsAffected);
+            Response.Write(Alerta);            
         }
     }
 }

@@ -9,6 +9,7 @@
         <div class="col-md-12 col-xs-12" style="display:flex;align-items:center;flex-direction:column;">
             <h3>Bienvenido al Sistema ezBank - Conciliador de Cartera</h3>
             <asp:Label ID="lblUsuario" runat="server" Cssclass="text-primary font-weight-bold" Font-Bold="True"></asp:Label>
+            <asp:Label ID="lblUltimaActualizacion" runat="server" Cssclass="font-weight-bold" Font-Bold="True"></asp:Label>
             <hr />
         </div>
         <div class="col-md-12 col-xs-12" style="display:flex;justify-content:center;">

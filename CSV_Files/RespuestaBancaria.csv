@@ -1,0 +1,1251 @@
+﻿Cliente:,FINPAIS,,,,,,,,,,
+Fecha:,12/10/2021,,,,,,,,,,
+Nombre de archivo:,Plantilla Cobranza Domiciliada BX+ PEMEX VENCIDO OCT 2.0.xlsx,,,,,,,,,,
+Usuario:,LIMHI830,,,,,,,,,,
+,,,,,,,,,,,
+Número ,Titular de la cuenta ,CLABE / TDD,Concepto ,Importe ,IVA ,Referencia ,Ref numérica ,Fecha,Estatus ,Intento,Motivo Rechazo
+1,Perez Felix Lourdes,2.7939E+15,Prueba Finpais,344,0,1450,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+2,Aguilar Javier Augusto Cesar,2.7949E+15,Prueba Finpais,687,0,967,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+3,Alamillo Romero Patricia,2.7929E+15,Prueba Finpais,1031,0,1281,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+4,Aleman Vazquez Eva Lilia,2.5809E+15,Prueba Finpais,1031,0,1071,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+5,Alvarez Aguilar Ignacio,2.8439E+15,Prueba Finpais,172,0,500,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+6,Amador Salomon Pedro,2.8989E+15,Prueba Finpais,172,0,1168,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+7,Arangure Sarmiento Jesus,2.0529E+15,Prueba Finpais,493,0,482,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+8,Arias Perez Leysi Gabriela,2.8439E+15,Prueba Finpais,1031,0,1311,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+9,Arrieta Zurita Vianney,2.7909E+15,Prueba Finpais,687,0,486,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+10,Arrieta Zurita Vianney,2.7909E+15,Prueba Finpais,344,0,864,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+11,Avalos Herrera Daniel,2.8049E+15,Prueba Finpais,1031,0,1407,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+12,Bruno Gomez Gonzalo,2.8419E+15,Prueba Finpais,1031,0,741,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+13,Cabrera Mendoza Alexandre Rigoberto,2.05245E+15,Prueba Finpais,1031,0,909,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+14,Carvajal Reyes Luis Abraham,2.9109E+15,Prueba Finpais,2086,0,1438,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+15,Castillo Davila Juan Antonio,2.1289E+15,Prueba Finpais,344,0,1228,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+16,Castillo Garcia Rocio Del Carmen,2.8907E+15,Prueba Finpais,2061,0,1529,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+17,Cerino Gaspar Maria De La Luz,2.7909E+15,Prueba Finpais,516,0,433,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+18,Cerino Gaspar Maria De La Luz,2.7909E+15,Prueba Finpais,687,0,752,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+19,Chavez Miranda Oscar Raul,2.7909E+15,Prueba Finpais,1031,0,562,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+20,Chavez Miranda Oscar Raul,2.7909E+15,Prueba Finpais,1718,0,672,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+21,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,687,0,974,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+22,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,687,0,1174,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+23,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,687,0,1440,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+24,Coba Alarcon Andres,2.8779E+15,Prueba Finpais,1031,0,534,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+25,Coba Lazo Andrea Lizeth,2.8779E+15,Prueba Finpais,1031,0,532,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+26,Comino Magana Lucio Augusto,2.0529E+15,Prueba Finpais,329,0,498,0,12/10/2021,COBRADO,1,
+27,Cordero Ortega Elydeth,2.7909E+15,Prueba Finpais,1031,0,763,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+28,Cornelio Guillen Asael,2.1289E+15,Prueba Finpais,1031,0,546,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+29,Cruz Garcia Carlos,2.8739E+15,Prueba Finpais,687,0,1324,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+30,Cundapi Cabrera Jonas,2.8049E+15,Prueba Finpais,1374,0,799,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+31,Cundapi Cabrera Jose Angel,2.8049E+15,Prueba Finpais,1718,0,756,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+32,De Dios Broca Ezequiel,2.7907E+15,Prueba Finpais,516,0,1320,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+33,De La Cruz Jeronimo Julio Cesar,2.7909E+15,Prueba Finpais,687,0,530,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+34,De La Cruz Jeronimo Julio Cesar,2.7909E+15,Prueba Finpais,687,0,643,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+35,Del Rio Martinez Matilde,2.7907E+15,Prueba Finpais,1031,0,942,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+36,Delgado Ramirez Danny Alejandro,2.0529E+15,Prueba Finpais,2086,0,1515,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+37,Dionisio Vazquez Jorge Ivan,2.8779E+15,Prueba Finpais,687,0,1447,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+38,Dominguez Guzman Diana Valeria,2.8779E+15,Prueba Finpais,1031,0,512,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+39,Dominguez Perez Gilberto,2.8049E+15,Prueba Finpais,344,0,1259,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+40,Felix Hernandez Javier,2.7939E+15,Prueba Finpais,1031,0,1000,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+41,Fernandez De Lara Vadillo Carlos Manuel,2.8909E+15,Prueba Finpais,3477,0,1382,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+42,Flores Dominguez Eliacer,2.8049E+15,Prueba Finpais,516,0,1145,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+43,Fonseca Sanchez Lina,2.7909E+15,Prueba Finpais,1031,0,904,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+44,Galvez Balboa Norma Edith,2.0529E+15,Prueba Finpais,687,0,962,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+45,Garcia Reyes Jose,2.1289E+15,Prueba Finpais,1031,0,778,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+46,Garcia Vargas Miguel Angel,2.8069E+15,Prueba Finpais,344,0,494,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+47,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,172,0,485,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+48,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,516,0,590,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+49,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,344,0,691,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+50,Geronimo Geronimo Juan,2.8049E+15,Prueba Finpais,344,0,579,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+51,Geronimo Geronimo Juan,2.8049E+15,Prueba Finpais,516,0,645,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+52,Gomez Perez Josefa Del Carmen,2.7909E+15,Prueba Finpais,344,0,1155,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+53,Gomez Reyes Francisco,2.8049E+15,Prueba Finpais,1031,0,1117,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+54,Gorrochotegui Priego Crhistian David,2.1289E+15,Prueba Finpais,516,0,1057,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+55,Gorrochotegui Priego Crhistian David,2.1289E+15,Prueba Finpais,1031,0,1194,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+56,Guerrero Barajas Miguel Angel,2.7949E+15,Prueba Finpais,1031,0,680,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+57,Guerrero Barajas Miguel Angel,2.7949E+15,Prueba Finpais,1031,0,918,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+58,Gutierrez Morales Rosa Elena,2.7909E+15,Prueba Finpais,1718,0,887,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+59,Gutierrez Morales Rosa Elena,2.7909E+15,Prueba Finpais,687,0,1010,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+60,Guzman Dodero Rodolfo,2.7929E+15,Prueba Finpais,516,0,913,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+61,Guzman Dodero Rodolfo,2.7929E+15,Prueba Finpais,344,0,1017,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+62,Hernandez De Dios Eddy,2.8049E+15,Prueba Finpais,516,0,955,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+63,Hernandez Enriquez Cesar,2.7909E+15,Prueba Finpais,1718,0,1270,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+64,Hernandez Vazquez Angel,2.8699E+15,Prueba Finpais,344,0,518,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+65,Hernandez Vazquez Angel,2.8699E+15,Prueba Finpais,687,0,822,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+66,Herrera Avalos Estela,2.7949E+15,Prueba Finpais,172,0,641,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+67,Jimenez Leon Blanca Estela,2.1289E+15,Prueba Finpais,687,0,519,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+68,Jimenez Moreno Maria Victoria,2.8049E+15,Prueba Finpais,344,0,1150,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+69,Jimenez Perez Regino,2.7909E+15,Prueba Finpais,344,0,932,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+70,Jimenez Perez Regino,2.7909E+15,Prueba Finpais,344,0,1108,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+71,Juarez Lopez Sandra,2.8029E+15,Prueba Finpais,1031,0,1426,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+72,Lara Toraya Laura,2.7939E+15,Prueba Finpais,1031,0,702,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+73,Lara Toraya Laura,2.7939E+15,Prueba Finpais,1031,0,762,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+74,Laureano Ocana Luis,2.8029E+15,Prueba Finpais,1031,0,1137,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+75,Lopez Alcazar Jorge Luis,2.7909E+15,Prueba Finpais,1374,0,711,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+76,Lopez Gemas Viviano,2.1289E+15,Prueba Finpais,172,0,1290,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+77,Lopez Jimenez Lazaro,2.8049E+15,Prueba Finpais,1031,0,698,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+78,Lorenzo Madrigal Antonio,2.7909E+15,Prueba Finpais,696,0,1381,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+79,Magana Marquez Dagoberto,2.7949E+15,Prueba Finpais,1031,0,939,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+80,Narvaez Cordova Juan,2.7939E+15,Prueba Finpais,859,0,1360,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+81,Ocana De La Cruz Fernando,2.7939E+15,Prueba Finpais,516,0,1231,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+82,Olan Delgado Yazmin,2.7947E+15,Prueba Finpais,344,0,1353,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+83,Olan Diaz Manuel Antonio,2.7909E+15,Prueba Finpais,1031,0,460,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+84,Olan Dominguez Sandra,2.7909E+15,Prueba Finpais,344,0,529,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+85,Olan Dominguez Sandra,2.7909E+15,Prueba Finpais,1031,0,768,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+86,Ortiz Padron Samuel,2.8779E+15,Prueba Finpais,344,0,676,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+87,Ovando Cerino Jose Elias,2.0529E+15,Prueba Finpais,3435,0,1072,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+88,Pascual Cruz Henry,2.0529E+15,Prueba Finpais,344,0,608,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+89,Perez Gomez Jose Alfredo,2.8049E+15,Prueba Finpais,1031,0,1129,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+90,Perez Javier Juan Carlos,2.8049E+15,Prueba Finpais,1031,0,744,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+91,Perez Javier Juan Carlos,2.8049E+15,Prueba Finpais,1031,0,1086,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+92,Pinto Moreno Maria Del Carmen,2.05245E+15,Prueba Finpais,172,0,1526,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+93,Prado Pena Angel,2.8989E+15,Prueba Finpais,1031,0,1202,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+94,Ricardez Izquierdo Gibran,2.8049E+15,Prueba Finpais,516,0,1212,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+95,Rivera Rodriguez Maria Victoria,2.7909E+15,Prueba Finpais,516,0,502,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+96,Riveroll Alvarez Maria Del Carmen,2.79307E+15,Prueba Finpais,516,0,491,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+97,Riveroll Alvarez Maria Del Carmen,2.79307E+15,Prueba Finpais,516,0,593,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+98,Romero Cruz Catalina,2.1289E+15,Prueba Finpais,1031,0,1295,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+99,Romero Vazquez Mario,2.7939E+15,Prueba Finpais,1031,0,1275,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+100,Rosales Castro Francisco,2.7909E+15,Prueba Finpais,344,0,1064,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+101,Rueda Gil Fredi,2.8049E+15,Prueba Finpais,172,0,647,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+102,Ruiz Arano Matias,2.89802E+15,Prueba Finpais,344,0,894,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+103,Santiago Regalado Francisco,2.8779E+15,Prueba Finpais,2061,0,552,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+104,Santos Jimenez Agustin,2.8049E+15,Prueba Finpais,172,0,513,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+105,Santos Jimenez Agustin,2.8049E+15,Prueba Finpais,344,0,779,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+106,Segura Bolaina Alejandro,2.8049E+15,Prueba Finpais,516,0,1229,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+107,Suanes Arroyo Guadalupe,2.8549E+15,Prueba Finpais,172,0,1308,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+108,Suarez Baeza Hayde Fabiola,2.8049E+15,Prueba Finpais,1031,0,1020,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+109,Tejeda San Martin Martha Edith,2.7909E+15,Prueba Finpais,687,0,896,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+110,Tejeda San Martin Martha Edith,2.7909E+15,Prueba Finpais,687,0,978,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+111,Toledo Castulo,2.8777E+15,Prueba Finpais,172,0,543,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+112,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,687,0,526,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+113,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,859,0,662,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+114,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,1718,0,753,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+115,Valderrabano Fernandez Ydalia,2.7909E+15,Prueba Finpais,687,0,525,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+116,Valderrabano Fernandez Ydalia,2.7909E+15,Prueba Finpais,687,0,657,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+117,Vivas Ortiz Emilio Javier,2.0529E+15,Prueba Finpais,1031,0,1255,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+118,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,516,0,462,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+119,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,516,0,592,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+120,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,344,0,1052,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+121,Montero Chable Enrique,1.2052E+16,Prueba Finpais,516,0,1019,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+122,Urbina Puga Demetrio,1.205E+16,Prueba Finpais,516,0,1162,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+123,Cortes Vera Javier Armando Roman,1.2052E+16,Prueba Finpais,344,0,1325,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+124,Espana Ortega Leticia,1.2843E+16,Prueba Finpais,1031,0,1422,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+125,Magana Collado Alfredo,1.2804E+16,Prueba Finpais,1031,0,1425,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+126,Urbina Puga Demetrio,1.205E+16,Prueba Finpais,1043,0,1442,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+127,Reyna Celis Arturo,1.2905E+16,Prueba Finpais,172,0,1453,0,12/10/2021,COBRADO,1,
+128,Jimenez Hernandez Cleluvia,1.2794E+16,Prueba Finpais,687,0,1498,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+129,Alarcon Gomez Carlos Alberto,1.279E+16,Prueba Finpais,344,0,493,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+130,Alarcon Gomez Carlos Alberto,1.279E+16,Prueba Finpais,516,0,595,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+131,Alberto Sanchez Pedro,1.2804E+16,Prueba Finpais,172,0,1042,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+132,Alcocer Vasconcelos Mauro,1.2052E+16,Prueba Finpais,653,0,630,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+133,Alejandro Alejandro Eleuterio,1.2804E+16,Prueba Finpais,687,0,477,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+134,Alejandro Cordova Juan,1.2052E+16,Prueba Finpais,1718,0,1113,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+135,Alejandro Cordova Roosevelt Truman,1.2804E+16,Prueba Finpais,687,0,1118,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+136,Alejandro Rodriguez Manuelita,1.279E+16,Prueba Finpais,1031,0,859,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+137,Alvarado Antonio Antonio,1.2793E+16,Prueba Finpais,1050,0,1034,0,13/10/2021,RECHAZADO,1,Cuenta Inexistente
+138,Alvarado Cruz Sandra Abril,1.2877E+16,Prueba Finpais,687,0,586,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+139,Angulo Dominguez Pedro,1.2804E+16,Prueba Finpais,1718,0,730,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+140,Angulo Ibarra Grisell,1.2804E+16,Prueba Finpais,1031,0,792,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+141,Angulo Ibarra Grisell,1.2804E+16,Prueba Finpais,1031,0,875,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+142,Angulo Lopez Jose Alfredo,1.2804E+16,Prueba Finpais,1718,0,1216,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+143,Aracen Hernandez Pascual,1.2804E+16,Prueba Finpais,1031,0,948,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+144,Arciniega Arevalo Alejandra,1.2804E+16,Prueba Finpais,172,0,1345,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+145,Argueta Pinto Maria Del Carmen,1.279E+16,Prueba Finpais,516,0,980,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+146,Argueta Pinto Maria Del Carmen,1.279E+16,Prueba Finpais,1031,0,1285,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+147,Arias Ballester Jose Rodrigo,1.2854E+16,Prueba Finpais,1031,0,1244,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+148,Arias Dominguez Carlos Arturo,1.2794E+16,Prueba Finpais,1031,0,1256,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+149,Arias Gonzalez Jose,1.2804E+16,Prueba Finpais,516,0,761,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+150,Ascencio Hernandez Justo Francisco,1.279E+16,Prueba Finpais,5153,0,624,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+151,Barragan Segovia Tirso Alejandro,1.279E+16,Prueba Finpais,1031,0,912,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+152,Behulo Reyes Geny Del Carmen,1.279E+16,Prueba Finpais,318,0,495,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+153,Behulo Reyes Geny Del Carmen,1.279E+16,Prueba Finpais,687,0,591,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+154,Berrones Rivera Josefina,1.279E+16,Prueba Finpais,344,0,447,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+155,Borjon Bermudez Juan Francisco,1.2804E+16,Prueba Finpais,1031,0,931,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+156,Bucio Marquez Rodolfo,1.2804E+16,Prueba Finpais,859,0,905,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+157,Campuzano Hernandez Jose,1.2804E+16,Prueba Finpais,1718,0,874,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+158,Carballo Hernandez Luz Maria,1.2804E+16,Prueba Finpais,516,0,889,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+159,Cardeno Garcia Carlos Rene,1.2052E+16,Prueba Finpais,687,0,973,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+160,Cardeno Garcia Carlos Rene,1.2052E+16,Prueba Finpais,1031,0,1172,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+161,Celis Gonzalez Rodolfo,1.279E+16,Prueba Finpais,1031,0,1195,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+162,Cerino Gaspar Maribel,1.279E+16,Prueba Finpais,516,0,437,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+163,Cerino Gaspar Maribel,1.279E+16,Prueba Finpais,516,0,725,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+164,Chable Alvarez Maria Del Carmen,1.2793E+16,Prueba Finpais,516,0,1361,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+165,Cobos Pando Gregorio,1.2052E+16,Prueba Finpais,5118,0,1317,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+166,Collado Garcia Gustavo,1.2804E+16,Prueba Finpais,1718,0,1273,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+167,Cordova Castellanos Jesus,1.2804E+16,Prueba Finpais,687,0,929,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+168,Cordova Javier Gilberto,1.2804E+16,Prueba Finpais,1718,0,1126,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+169,Cruz Alejandro Marqueza,1.2804E+16,Prueba Finpais,1031,0,1462,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+170,Cruz Angel Martha Eugenia,1.2052E+16,Prueba Finpais,344,0,902,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+171,Cruz Gomez Ruben Dario,1.2804E+16,Prueba Finpais,859,0,958,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+172,Cruz Sierra Emily,1.2794E+16,Prueba Finpais,1031,0,1123,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+173,Cundapi Cabrera Arturo Rafael,1.2804E+16,Prueba Finpais,687,0,847,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+174,De Dios Frias Janet,1.279E+16,Prueba Finpais,1374,0,805,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+175,De Jesus Cespedes Juan Cirino,1.2888E+16,Prueba Finpais,1031,0,573,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+176,De Jesus Cespedes Juan Cirino,1.2888E+16,Prueba Finpais,687,0,754,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+177,De La Cruz Cruz Jose Miguel,1.279E+16,Prueba Finpais,1031,0,1133,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+178,De La Cruz Garcia Eraldi,1.2804E+16,Prueba Finpais,1031,0,1401,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+179,De La Rosa Castillo Sergio,1.279E+16,Prueba Finpais,859,0,670,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+180,De Los Santos Lopez Jesus Arturo,1.279E+16,Prueba Finpais,1031,0,1385,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+181,Dominguez Garcia Ignacio,1.2804E+16,Prueba Finpais,1031,0,746,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+182,Dominguez Garcia Ignacio,1.2804E+16,Prueba Finpais,1031,0,970,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+183,Dominguez Linaldi Jose Luis,1.2052E+16,Prueba Finpais,516,0,555,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+184,Dominguez Linaldi Jose Luis,1.2052E+16,Prueba Finpais,516,0,656,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+185,Fajardo Zamora Rebeca,1.2888E+16,Prueba Finpais,687,0,817,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+186,Feria Balcazar Irving,1.291E+16,Prueba Finpais,1031,0,921,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+187,Gallegos Ramon Antonio,1.279E+16,Prueba Finpais,687,0,1298,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+188,Garcia De La Cruz Eleuterio,1.279E+16,Prueba Finpais,310,0,1292,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+189,Garcia Dominguez Miguel Antonio,1.2804E+16,Prueba Finpais,1031,0,1193,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+190,Garcia Gonzalez Saul,1.2804E+16,Prueba Finpais,687,0,793,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+191,Garcia Ortiz Irma,1.2793E+16,Prueba Finpais,1031,0,922,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+192,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,1031,0,536,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+193,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,687,0,637,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+194,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,1031,0,775,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+195,Geronimo Ramirez Andrea Del Carmen,1.2804E+16,Prueba Finpais,1031,0,1213,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+196,Gil Madrigal Gabriela,1.2804E+16,Prueba Finpais,1374,0,797,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+197,Gomez Bejarano Eduardo,1.2794E+16,Prueba Finpais,1031,0,743,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+198,Gomez Bejarano Eduardo,1.2794E+16,Prueba Finpais,1031,0,1018,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+199,Gomez Jimenez Alvaro,1.2794E+16,Prueba Finpais,1031,0,1365,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+200,Gomez Rodriguez Julio,1.2877E+16,Prueba Finpais,344,0,1376,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+201,Gomez Vera Roberto,1.218E+16,Prueba Finpais,344,0,1399,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+202,Gonzalez Evenes Hindira Luisa,1.2854E+16,Prueba Finpais,516,0,1245,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+203,Granda Dufour German,1.2792E+16,Prueba Finpais,516,0,669,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+204,Guillen Morales Alberto,1.2843E+16,Prueba Finpais,344,0,810,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+205,Hernandez Acopa Esmeralda,1.279E+16,Prueba Finpais,1031,0,540,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+206,Hernandez Acopa Esmeralda,1.279E+16,Prueba Finpais,1031,0,658,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+207,Hernandez Alonso Agustin,1.2795E+16,Prueba Finpais,344,0,1373,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+208,Hernandez Damian Guillermo,1.2052E+16,Prueba Finpais,516,0,544,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+209,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,344,0,436,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+210,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,344,0,559,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+211,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,516,0,1200,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+212,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,1031,0,1379,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+213,Hernandez Sanchez Maria Cristina,1.2873E+16,Prueba Finpais,687,0,1187,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+214,Hernandez Viveros Andres,1.2052E+16,Prueba Finpais,344,0,1334,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+215,Javier Dominguez Guadalupe,1.2804E+16,Prueba Finpais,344,0,925,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+216,Jimenez Alvarez Maria Jesus,1.2052E+16,Prueba Finpais,1031,0,1497,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+217,Jimenez Cordova Ana Maria,1.279E+16,Prueba Finpais,1374,0,800,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+218,Jimenez Gonzalez Obed,1.2794E+16,Prueba Finpais,1031,0,1313,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+219,Lara Pena Jose Ariel,1.2888E+16,Prueba Finpais,516,0,858,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+220,Lara Toraya Jacqueline,1.279E+16,Prueba Finpais,1031,0,720,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+221,Lara Toraya Jacqueline,1.279E+16,Prueba Finpais,1031,0,832,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+222,Lerma Leija Victor Hugo,1.2793E+16,Prueba Finpais,516,0,1257,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+223,Lopez Burelo Carolina,1.2804E+16,Prueba Finpais,687,0,1053,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+224,Lopez Cordova Aura Del Carmen,1.2794E+16,Prueba Finpais,344,0,1176,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+225,Lopez De Los Angeles Bernabe,1.2854E+16,Prueba Finpais,1031,0,1115,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+226,Lopez Diaz Karlos Edwin,1.279E+16,Prueba Finpais,1718,0,834,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+227,Lopez Diaz Karlos Edwin,1.279E+16,Prueba Finpais,1031,0,1309,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+228,Lopez Dominguez Joel,1.2873E+16,Prueba Finpais,687,0,977,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+229,Lopez Dominguez Marvin,1.2843E+16,Prueba Finpais,1718,0,1166,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+230,Lopez Felix Marco Antonio,1.2804E+16,Prueba Finpais,1031,0,882,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+231,Lopez Felix Marco Antonio,1.2804E+16,Prueba Finpais,1031,0,1056,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+232,Lopez Hernandez Guadalupe Selene,1.2792E+16,Prueba Finpais,653,0,1316,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+233,Lopez Osorio Francisco,1.2804E+16,Prueba Finpais,344,0,575,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+234,Lopez Perez Luis Roberto,1.2843E+16,Prueba Finpais,859,0,951,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+235,Magana Brown Veronica Del Carmen,1.279E+16,Prueba Finpais,1031,0,715,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+236,Magana Cordova Guadalupe,1.2795E+16,Prueba Finpais,1031,0,728,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+237,Magana Jimenez Fabiola,1.2804E+16,Prueba Finpais,344,0,928,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+238,Magana Jimenez Fabiola,1.2804E+16,Prueba Finpais,1031,0,1090,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+239,Magana Raymundo Diana Isela,1.2794E+16,Prueba Finpais,859,0,979,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+240,Marquez Castillo Ignacio,1.2877E+16,Prueba Finpais,516,0,497,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+241,Martinez Martinez Isidro,1.2793E+16,Prueba Finpais,1031,0,935,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+242,Martinez Silvan Juan Gabriel,1.2794E+16,Prueba Finpais,1031,0,1214,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+243,Mayo Hernandez Ricarte,1.2793E+16,Prueba Finpais,687,0,898,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+244,Montejo Montejo Rigoberto,1.2794E+16,Prueba Finpais,859,0,1114,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+245,Morato Berman Daniel Alfonso,1.279E+16,Prueba Finpais,3435,0,663,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+246,Ocana Luciano Jose Reyes,1.2793E+16,Prueba Finpais,344,0,1196,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+247,Orta Hernandez Luis Guillermo,1.2804E+16,Prueba Finpais,1718,0,982,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+248,Padilla Lule Adela,1.218E+16,Prueba Finpais,859,0,1236,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+249,Pancardo Bussart Arturo,1.2794E+16,Prueba Finpais,1718,0,1122,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+250,Peraza Gomez Rosario,1.2052E+16,Prueba Finpais,344,0,700,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+251,Perez Gomez Jhon Sebastian,1.2804E+16,Prueba Finpais,172,0,1046,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+252,Perez Romero Lucia,1.2804E+16,Prueba Finpais,1374,0,879,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+253,Ponce Flores Jair,1.2804E+16,Prueba Finpais,344,0,1152,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+254,Ramirez De La Cruz Maximo,1.2792E+16,Prueba Finpais,1031,0,1444,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+255,Ramirez Hernandez Hernan,1.279E+16,Prueba Finpais,172,0,644,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+256,Ramirez Hernandez Hernan,1.279E+16,Prueba Finpais,344,0,1175,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+257,Ramirez Munoz Jym,1.2052E+16,Prueba Finpais,516,0,1220,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+258,Ramon Rios Ricardo,1.2877E+16,Prueba Finpais,344,0,515,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+259,Ramos Gomez Rene Alfonso,1.2804E+16,Prueba Finpais,1031,0,1243,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+260,Ricardez Gallegos Virgilio,1.2804E+16,Prueba Finpais,1718,0,1054,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+261,Rodriguez Ricardez Jose Guadalupe,1.2804E+16,Prueba Finpais,1031,0,841,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+262,Rodriguez Ricardez Jose Guadalupe,1.2804E+16,Prueba Finpais,1031,0,1006,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+263,Rosaldo Rodriguez Juan Luis,1.2052E+16,Prueba Finpais,687,0,589,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+264,Rosaldo Rodriguez Juan Luis,1.2052E+16,Prueba Finpais,859,0,765,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+265,Sanchez Bautista Candelario,1.2804E+16,Prueba Finpais,1031,0,747,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+266,Santiago Garcia Jose Alfredo,1.279E+16,Prueba Finpais,172,0,661,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+267,Santiago Joachin Eder,1.2804E+16,Prueba Finpais,1031,0,910,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+268,Santo Cruz Jesus Manuel,1.2804E+16,Prueba Finpais,1031,0,719,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+269,Santos Arias Luis Alberto,1.2804E+16,Prueba Finpais,1718,0,854,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+270,Santos Jauregui Jorge,1.2804E+16,Prueba Finpais,859,0,906,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+271,Santos Palma Manuel,1.2804E+16,Prueba Finpais,1718,0,665,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+272,Silvan Ballina Maria Victoria,1.2052E+16,Prueba Finpais,1031,0,583,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+273,Sosa Alonso Juan Carlos,1.279E+16,Prueba Finpais,516,0,659,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+274,Sosa Alonso Juan Carlos,1.279E+16,Prueba Finpais,859,0,774,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+275,Sosa Tejeda Antonio,1.2804E+16,Prueba Finpais,1031,0,1011,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+276,Torres Lopez Leydi Maria,1.218E+16,Prueba Finpais,516,0,1306,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+277,Torres Ramirez Miguel,1.218E+16,Prueba Finpais,1031,0,1342,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+278,Torres Torres Agustin,1.279E+16,Prueba Finpais,344,0,729,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+279,Torres Torres Agustin,1.279E+16,Prueba Finpais,1718,0,812,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+280,Torres Torres Agustin,1.279E+16,Prueba Finpais,1031,0,943,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+281,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,382,0,407,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+282,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,344,0,457,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+283,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,344,0,585,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+284,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,344,0,431,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+285,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,687,0,474,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+286,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,344,0,588,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+287,Urena Arbona Nallely,1.2794E+16,Prueba Finpais,1031,0,1180,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+288,Valenzuela Castellanos Ives Raul,1.2804E+16,Prueba Finpais,516,0,1264,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+289,Velazquez Ruiz Isaias,1.279E+16,Prueba Finpais,2233,0,1085,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+290,Vidal Ramos Maria Del Carmen,1.2792E+16,Prueba Finpais,763,0,363,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+291,Zacarias Perez Mayra,1.218E+16,Prueba Finpais,687,0,1300,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+292,Arceo Ortiz Arturo,1.48546E+16,Prueba Finpais,1031,0,742,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+293,Berman Oviedo Maria Isabel,1.47906E+16,Prueba Finpais,344,0,556,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+294,Cruz Martinez Luis Guillermo,1.48546E+16,Prueba Finpais,207,0,1521,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+295,Domiguez Santiago Alvaro,1.48776E+16,Prueba Finpais,1031,0,522,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+296,Elvira Maria,1.49056E+16,Prueba Finpais,344,0,445,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+297,Estudillo Arias Santiago,1.48546E+16,Prueba Finpais,516,0,716,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+298,Flores Herrera Liliana Del Carmen,1.48776E+16,Prueba Finpais,516,0,1522,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+299,Garcia Jimenez Pablo,1.48546E+16,Prueba Finpais,687,0,789,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+300,Gonzalez Lopez Maria Isabel,1.48546E+16,Prueba Finpais,516,0,999,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+301,Lopez Perez Ofelia,1.48736E+16,Prueba Finpais,172,0,1232,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+302,Luria Montiel Javier Armando,1.48776E+16,Prueba Finpais,516,0,542,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+303,Mendoza Hernandez Juan Carlos,1.47906E+16,Prueba Finpais,1031,0,837,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+304,Ortiz Perez Reynaldo,1.48776E+16,Prueba Finpais,172,0,653,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+305,Ortiz Perez Reynaldo,1.48776E+16,Prueba Finpais,172,0,785,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+306,Pecero Covarrubias Valdemar,1.47906E+16,Prueba Finpais,1031,0,601,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+307,Rodriguez Carmona Amador,1.48546E+16,Prueba Finpais,516,0,1252,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+308,Vargas Jallath Martha Patricia,1.49106E+16,Prueba Finpais,1031,0,745,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+309,Chable Junco Carmen,2.18021E+16,Prueba Finpais,1031,0,1411,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+310,Aguilar Lazaro Maday,2.17901E+16,Prueba Finpais,1031,0,1403,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+311,Alcudia Martinez Miguel,2.18541E+16,Prueba Finpais,516,0,1076,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+312,Alcudia Ventura Jose Santos,2.17941E+16,Prueba Finpais,1718,0,1198,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+313,Alejandro Perez Dalver Jesus,2.17901E+16,Prueba Finpais,1718,0,1189,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+314,Amaya Hernandez Jose Reyes,2.17941E+16,Prueba Finpais,1031,0,1060,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+315,Arjona Flores Cristobal,2.17901E+16,Prueba Finpais,1031,0,1040,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+316,Avalos De La Cruz Apolinar,2.17901E+16,Prueba Finpais,1718,0,855,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+317,Avalos Madrigal Juan,2.17901E+16,Prueba Finpais,1031,0,1505,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+318,Baz Vega Gilberto,2.10521E+16,Prueba Finpais,413,0,612,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+319,Bermudez Gomez Gutemberg,2.17901E+16,Prueba Finpais,1718,0,695,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+320,Cancino Hernandez Arturo,2.17901E+16,Prueba Finpais,1031,0,883,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+321,Carrillo Alejandro Norma Alicia,2.17901E+16,Prueba Finpais,1031,0,677,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+322,Carrillo Jimenez Abel,2.17901E+16,Prueba Finpais,1031,0,938,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+323,Carrillo Marquez Jose Del Carmen,2.10521E+16,Prueba Finpais,1031,0,1147,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+324,Castellanos Castillo Jose Alberto,2.179E+16,Prueba Finpais,687,0,1408,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+325,Castillo Castellanos Wilians,2.17901E+16,Prueba Finpais,687,0,1286,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+326,Cerecedo Balanzategui Sergio,2.19031E+16,Prueba Finpais,687,0,811,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+327,Chable Sanchez Rafael Enrique,2.17901E+16,Prueba Finpais,1374,0,796,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+328,Colorado Gonzalez Oscar,2.17901E+16,Prueba Finpais,1031,0,731,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+329,Cordova Cordova Santana,2.17901E+16,Prueba Finpais,1718,0,867,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+330,Cruz Hernandez Jorge Alberto,2.17901E+16,Prueba Finpais,1718,0,757,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+331,De Los Santos Castillejos Elias,2.11001E+16,Prueba Finpais,1031,0,1105,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+332,Del Rio Martinez Luis Manuel,2.17901E+16,Prueba Finpais,1031,0,604,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+333,Del Rivero Vargas Horacio,2.10521E+16,Prueba Finpais,687,0,578,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+334,Domiguez Yzquierdo Roberto,2.17901E+16,Prueba Finpais,172,0,1468,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+335,Espinosa Chan Cesar,2.10521E+16,Prueba Finpais,516,0,553,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+336,Falconi Carrillo Wendy Selene,2.17901E+16,Prueba Finpais,1031,0,1008,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+337,Figueroa Jarauta Honorato,2.17901E+16,Prueba Finpais,859,0,1079,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+338,Gallegos Cordova Carlos Manuel,2.17901E+16,Prueba Finpais,1031,0,1048,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+339,Garcia De La Cruz William,2.17901E+16,Prueba Finpais,1031,0,1416,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+340,Garcia Gonzalez Carmen,2.17901E+16,Prueba Finpais,344,0,1346,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+341,Gonzalez Castillo Jorge,2.17901E+16,Prueba Finpais,172,0,1144,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+342,Gonzalez Flores Jose Antonio,2.17901E+16,Prueba Finpais,687,0,783,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+343,Gonzalez Olan Benicia,2.17901E+16,Prueba Finpais,344,0,1323,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+344,Gutierrez Ventura Andres,2.17901E+16,Prueba Finpais,1031,0,838,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+345,Gutierrez Ventura Andres,2.17901E+16,Prueba Finpais,1031,0,1092,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+346,Hernandez Ballina Melchor,2.10521E+16,Prueba Finpais,493,0,483,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+347,Hernandez Cano Maria Salome,2.10521E+16,Prueba Finpais,1031,0,600,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+348,Hernandez Cano Maria Salome,2.10521E+16,Prueba Finpais,1031,0,788,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+349,Hernandez De La Rosa Gonzalo,2.17901E+16,Prueba Finpais,310,0,1415,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+350,Hernandez Izquierdo Raciel,2.17901E+16,Prueba Finpais,1031,0,773,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+351,Hernandez Jimenez Maria Isabel,2.17901E+16,Prueba Finpais,1031,0,916,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+352,Hernandez Marquez Faustino,2.17901E+16,Prueba Finpais,687,0,995,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+353,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,1031,0,668,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+354,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,1031,0,772,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+355,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,344,0,1125,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+356,Jimenez Alcudia Filonila,2.179E+16,Prueba Finpais,516,0,1111,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+357,Jimenez Jimenez Irlanda,2.17941E+16,Prueba Finpais,1031,0,1038,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+358,Lezcano Hernandez Jhony Alonso,2.17901E+16,Prueba Finpais,1031,0,1039,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+359,Ligonio Contreras Asuncion,2.17901E+16,Prueba Finpais,1718,0,971,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+360,Magana Ronny Javier,2.17901E+16,Prueba Finpais,516,0,892,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+361,Magana Tejada Salvador,2.1794E+16,Prueba Finpais,344,0,1165,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+362,Marquez Santos Sebastian,2.17901E+16,Prueba Finpais,687,0,607,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+363,Martinez Jimenez Daniel Guadalupe,2.10521E+16,Prueba Finpais,1031,0,697,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+364,Mateo Casimiro Justo,2.17941E+16,Prueba Finpais,344,0,1280,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+365,Mauleon Perez Zuemi Del Mar,2.17901E+16,Prueba Finpais,1718,0,1210,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+366,Mayo Ramos Nicolas,2.17921E+16,Prueba Finpais,1031,0,1163,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+367,Mendez Lopez Nicolas,2.10521E+16,Prueba Finpais,687,0,926,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+368,Morales Garduzca Miguel,2.17941E+16,Prueba Finpais,687,0,1326,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+369,Notario Celaya Silvia Graciela,2.17901E+16,Prueba Finpais,1031,0,944,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+370,Ovando Sanchez Alexander,2.17901E+16,Prueba Finpais,1031,0,780,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+371,Palma Arjona Daniel,2.17901E+16,Prueba Finpais,275,0,1315,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+372,Palma Dominguez Elias,2.179E+16,Prueba Finpais,1718,0,675,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+373,Palma Dominguez Elias,2.179E+16,Prueba Finpais,1031,0,831,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+374,Perez Alor Carlos,2.18771E+16,Prueba Finpais,1031,0,840,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+375,Perez Gongora Manuel,2.10521E+16,Prueba Finpais,344,0,458,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+376,Perez Gongora Manuel,2.10521E+16,Prueba Finpais,172,0,582,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+377,Perez Ventura Angel Alberto,2.17901E+16,Prueba Finpais,1031,0,809,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+378,Perez Ventura Angel Alberto,2.17901E+16,Prueba Finpais,1031,0,1049,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+379,Rabanales Dominguez Herminio,2.17941E+16,Prueba Finpais,1031,0,1177,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+380,Ramirez Rodriguez Freddy,2.17901E+16,Prueba Finpais,516,0,998,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+381,Reguero Gomez Jorge Alberto,2.17901E+16,Prueba Finpais,1031,0,1031,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+382,Rodriguez Alejandro Maria Cruz,2.17901E+16,Prueba Finpais,1718,0,1021,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+383,Rodriguez Hernandez Graciela,2.10521E+16,Prueba Finpais,1031,0,1028,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+384,Rodriguez Hernandez Guillermo,2.1052E+16,Prueba Finpais,516,0,581,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+385,Rodriguez Hernandez Guillermo,2.1052E+16,Prueba Finpais,344,0,713,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+386,Rodriguez Lazaro Julio De La Cruz,2.17901E+16,Prueba Finpais,1031,0,1507,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+387,Rodriguez Perez Ricardo,2.1052E+16,Prueba Finpais,4868,0,1383,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+388,Rodriguez Ramos Angel Daniel,2.17901E+16,Prueba Finpais,1031,0,748,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+389,Romero Milla Manuel Moises,2.17901E+16,Prueba Finpais,1050,0,1036,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+390,Rueda Palma Teodoro,2.19101E+16,Prueba Finpais,1031,0,786,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+391,Ruz Morales Arturo,2.10521E+16,Prueba Finpais,493,0,503,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+392,Salazar Cruz Crisanto,2.10521E+16,Prueba Finpais,241,0,554,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+393,Salazar Cruz Crisanto,2.10521E+16,Prueba Finpais,344,0,646,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+394,Sanchez De La Cruz Jose Francisco,2.17901E+16,Prueba Finpais,1031,0,674,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+395,Sanchez Ramirez Flor Del Rocio,2.17901E+16,Prueba Finpais,687,0,673,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+396,Sanchez Santos Manuel Guadalupe,2.17901E+16,Prueba Finpais,1374,0,617,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+397,Sanchez Santos Manuel Guadalupe,2.17901E+16,Prueba Finpais,1374,0,870,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+398,Santo Marquez Elias,2.17901E+16,Prueba Finpais,1031,0,1496,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+399,Santos Garcia Ana Rosa,2.17901E+16,Prueba Finpais,1031,0,885,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+400,Solis Escalante Manuel Antonio,2.1052E+16,Prueba Finpais,1031,0,548,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+401,Torres Lopez Darvin,2.17941E+16,Prueba Finpais,1718,0,648,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+402,Valencia Hernandez Jorge,2.17901E+16,Prueba Finpais,344,0,804,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+403,Vazquez Lopez Maribel,2.10521E+16,Prueba Finpais,344,0,640,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+404,Velazquez Cancino Manuel Enrique,2.17901E+16,Prueba Finpais,1031,0,712,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+405,Vera San Lucas Jose Del Carmen,2.10521E+16,Prueba Finpais,1031,0,724,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+406,Vicente Rodriguez Luis Roberto,2.17901E+16,Prueba Finpais,1031,0,687,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+407,Vicente Rodriguez Luis Roberto,2.17901E+16,Prueba Finpais,1031,0,829,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+408,Villalobos Hernandez Edgar,2.17901E+16,Prueba Finpais,1374,0,722,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+409,Villalobos Sierra Enrique,2.10521E+16,Prueba Finpais,1031,0,567,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+410,Villanueva Wilson Joaquin,2.17901E+16,Prueba Finpais,1718,0,1141,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+411,Zurita Gomez Jose Luis,2.17901E+16,Prueba Finpais,687,0,1338,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+412,Vidal Perez Maria Guadalupe,4.48023E+16,Prueba Finpais,687,0,1435,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+413,Hernandez Montero Jose Antonio,1.2779E+17,Prueba Finpais,1031,0,794,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+414,Hernandez Montero Jose Antonio,1.2779E+17,Prueba Finpais,687,0,1027,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+415,De La Fuente Vecente Luis,2.8779E+15,Prueba Finpais,320,0,516,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+416,Perez Felix Lourdes,2.7939E+15,Prueba Finpais,213,0,1450,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+417,Aguilar Javier Augusto Cesar,2.7949E+15,Prueba Finpais,426,0,967,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+418,Alamillo Romero Patricia,2.7929E+15,Prueba Finpais,639,0,1281,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+419,Aleman Vazquez Eva Lilia,2.5809E+15,Prueba Finpais,639,0,1071,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+420,Alvarez Aguilar Ignacio,2.8439E+15,Prueba Finpais,107,0,500,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+421,Amador Salomon Pedro,2.8989E+15,Prueba Finpais,107,0,1168,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+422,Arangure Sarmiento Jesus,2.0529E+15,Prueba Finpais,306,0,482,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+423,Arias Perez Leysi Gabriela,2.8439E+15,Prueba Finpais,639,0,1311,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+424,Arrieta Zurita Vianney,2.7909E+15,Prueba Finpais,426,0,486,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+425,Arrieta Zurita Vianney,2.7909E+15,Prueba Finpais,213,0,864,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+426,Avalos Herrera Daniel,2.8049E+15,Prueba Finpais,639,0,1407,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+427,Bruno Gomez Gonzalo,2.8419E+15,Prueba Finpais,639,0,741,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+428,Cabrera Mendoza Alexandre Rigoberto,2.05245E+15,Prueba Finpais,639,0,909,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+429,Carvajal Reyes Luis Abraham,2.9109E+15,Prueba Finpais,1294,0,1438,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+430,Castillo Davila Juan Antonio,2.1289E+15,Prueba Finpais,213,0,1228,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+431,Castillo Garcia Rocio Del Carmen,2.8907E+15,Prueba Finpais,1278,0,1529,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+432,Cerino Gaspar Maria De La Luz,2.7909E+15,Prueba Finpais,320,0,433,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+433,Cerino Gaspar Maria De La Luz,2.7909E+15,Prueba Finpais,426,0,752,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+434,Chavez Miranda Oscar Raul,2.7909E+15,Prueba Finpais,639,0,562,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+435,Chavez Miranda Oscar Raul,2.7909E+15,Prueba Finpais,1065,0,672,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+436,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,426,0,974,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+437,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,426,0,1174,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+438,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,426,0,1440,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+439,Coba Alarcon Andres,2.8779E+15,Prueba Finpais,639,0,534,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+440,Coba Lazo Andrea Lizeth,2.8779E+15,Prueba Finpais,639,0,532,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+441,Comino Magana Lucio Augusto,2.0529E+15,Prueba Finpais,204,0,498,0,12/10/2021,COBRADO,1,
+442,Cordero Ortega Elydeth,2.7909E+15,Prueba Finpais,639,0,763,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+443,Cornelio Guillen Asael,2.1289E+15,Prueba Finpais,639,0,546,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+444,Cruz Garcia Carlos,2.8739E+15,Prueba Finpais,426,0,1324,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+445,Cundapi Cabrera Jonas,2.8049E+15,Prueba Finpais,852,0,799,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+446,Cundapi Cabrera Jose Angel,2.8049E+15,Prueba Finpais,1065,0,756,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+447,De Dios Broca Ezequiel,2.7907E+15,Prueba Finpais,320,0,1320,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+448,De La Cruz Jeronimo Julio Cesar,2.7909E+15,Prueba Finpais,426,0,530,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+449,De La Cruz Jeronimo Julio Cesar,2.7909E+15,Prueba Finpais,426,0,643,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+450,Del Rio Martinez Matilde,2.7907E+15,Prueba Finpais,639,0,942,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+451,Delgado Ramirez Danny Alejandro,2.0529E+15,Prueba Finpais,1294,0,1515,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+452,Dionisio Vazquez Jorge Ivan,2.8779E+15,Prueba Finpais,426,0,1447,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+453,Dominguez Guzman Diana Valeria,2.8779E+15,Prueba Finpais,639,0,512,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+454,Dominguez Perez Gilberto,2.8049E+15,Prueba Finpais,213,0,1259,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+455,Felix Hernandez Javier,2.7939E+15,Prueba Finpais,639,0,1000,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+456,Fernandez De Lara Vadillo Carlos Manuel,2.8909E+15,Prueba Finpais,2156,0,1382,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+457,Flores Dominguez Eliacer,2.8049E+15,Prueba Finpais,320,0,1145,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+458,Fonseca Sanchez Lina,2.7909E+15,Prueba Finpais,639,0,904,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+459,Galvez Balboa Norma Edith,2.0529E+15,Prueba Finpais,426,0,962,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+460,Garcia Reyes Jose,2.1289E+15,Prueba Finpais,639,0,778,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+461,Garcia Vargas Miguel Angel,2.8069E+15,Prueba Finpais,213,0,494,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+462,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,107,0,485,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+463,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,320,0,590,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+464,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,213,0,691,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+465,Geronimo Geronimo Juan,2.8049E+15,Prueba Finpais,213,0,579,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+466,Geronimo Geronimo Juan,2.8049E+15,Prueba Finpais,320,0,645,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+467,Gomez Perez Josefa Del Carmen,2.7909E+15,Prueba Finpais,213,0,1155,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+468,Gomez Reyes Francisco,2.8049E+15,Prueba Finpais,639,0,1117,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+469,Gorrochotegui Priego Crhistian David,2.1289E+15,Prueba Finpais,320,0,1057,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+470,Gorrochotegui Priego Crhistian David,2.1289E+15,Prueba Finpais,639,0,1194,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+471,Guerrero Barajas Miguel Angel,2.7949E+15,Prueba Finpais,639,0,680,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+472,Guerrero Barajas Miguel Angel,2.7949E+15,Prueba Finpais,639,0,918,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+473,Gutierrez Morales Rosa Elena,2.7909E+15,Prueba Finpais,1065,0,887,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+474,Gutierrez Morales Rosa Elena,2.7909E+15,Prueba Finpais,426,0,1010,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+475,Guzman Dodero Rodolfo,2.7929E+15,Prueba Finpais,320,0,913,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+476,Guzman Dodero Rodolfo,2.7929E+15,Prueba Finpais,213,0,1017,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+477,Hernandez De Dios Eddy,2.8049E+15,Prueba Finpais,320,0,955,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+478,Hernandez Enriquez Cesar,2.7909E+15,Prueba Finpais,1065,0,1270,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+479,Hernandez Vazquez Angel,2.8699E+15,Prueba Finpais,213,0,518,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+480,Hernandez Vazquez Angel,2.8699E+15,Prueba Finpais,426,0,822,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+481,Herrera Avalos Estela,2.7949E+15,Prueba Finpais,107,0,641,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+482,Jimenez Leon Blanca Estela,2.1289E+15,Prueba Finpais,426,0,519,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+483,Jimenez Moreno Maria Victoria,2.8049E+15,Prueba Finpais,213,0,1150,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+484,Jimenez Perez Regino,2.7909E+15,Prueba Finpais,213,0,932,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+485,Jimenez Perez Regino,2.7909E+15,Prueba Finpais,213,0,1108,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+486,Juarez Lopez Sandra,2.8029E+15,Prueba Finpais,639,0,1426,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+487,Lara Toraya Laura,2.7939E+15,Prueba Finpais,639,0,702,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+488,Lara Toraya Laura,2.7939E+15,Prueba Finpais,639,0,762,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+489,Laureano Ocana Luis,2.8029E+15,Prueba Finpais,639,0,1137,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+490,Lopez Alcazar Jorge Luis,2.7909E+15,Prueba Finpais,852,0,711,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+491,Lopez Gemas Viviano,2.1289E+15,Prueba Finpais,107,0,1290,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+492,Lopez Jimenez Lazaro,2.8049E+15,Prueba Finpais,639,0,698,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+493,Lorenzo Madrigal Antonio,2.7909E+15,Prueba Finpais,432,0,1381,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+494,Magana Marquez Dagoberto,2.7949E+15,Prueba Finpais,639,0,939,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+495,Narvaez Cordova Juan,2.7939E+15,Prueba Finpais,533,0,1360,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+496,Ocana De La Cruz Fernando,2.7939E+15,Prueba Finpais,320,0,1231,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+497,Olan Delgado Yazmin,2.7947E+15,Prueba Finpais,213,0,1353,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+498,Olan Diaz Manuel Antonio,2.7909E+15,Prueba Finpais,639,0,460,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+499,Olan Dominguez Sandra,2.7909E+15,Prueba Finpais,213,0,529,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+500,Olan Dominguez Sandra,2.7909E+15,Prueba Finpais,639,0,768,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+501,Ortiz Padron Samuel,2.8779E+15,Prueba Finpais,213,0,676,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+502,Ovando Cerino Jose Elias,2.0529E+15,Prueba Finpais,2130,0,1072,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+503,Pascual Cruz Henry,2.0529E+15,Prueba Finpais,213,0,608,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+504,Perez Gomez Jose Alfredo,2.8049E+15,Prueba Finpais,639,0,1129,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+505,Perez Javier Juan Carlos,2.8049E+15,Prueba Finpais,639,0,744,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+506,Perez Javier Juan Carlos,2.8049E+15,Prueba Finpais,639,0,1086,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+507,Pinto Moreno Maria Del Carmen,2.05245E+15,Prueba Finpais,107,0,1526,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+508,Prado Pena Angel,2.8989E+15,Prueba Finpais,639,0,1202,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+509,Ricardez Izquierdo Gibran,2.8049E+15,Prueba Finpais,320,0,1212,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+510,Rivera Rodriguez Maria Victoria,2.7909E+15,Prueba Finpais,320,0,502,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+511,Riveroll Alvarez Maria Del Carmen,2.79307E+15,Prueba Finpais,320,0,491,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+512,Riveroll Alvarez Maria Del Carmen,2.79307E+15,Prueba Finpais,320,0,593,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+513,Romero Cruz Catalina,2.1289E+15,Prueba Finpais,639,0,1295,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+514,Romero Vazquez Mario,2.7939E+15,Prueba Finpais,639,0,1275,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+515,Rosales Castro Francisco,2.7909E+15,Prueba Finpais,213,0,1064,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+516,Rueda Gil Fredi,2.8049E+15,Prueba Finpais,107,0,647,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+517,Ruiz Arano Matias,2.89802E+15,Prueba Finpais,213,0,894,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+518,Santiago Regalado Francisco,2.8779E+15,Prueba Finpais,1278,0,552,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+519,Santos Jimenez Agustin,2.8049E+15,Prueba Finpais,107,0,513,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+520,Santos Jimenez Agustin,2.8049E+15,Prueba Finpais,213,0,779,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+521,Segura Bolaina Alejandro,2.8049E+15,Prueba Finpais,320,0,1229,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+522,Suanes Arroyo Guadalupe,2.8549E+15,Prueba Finpais,107,0,1308,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+523,Suarez Baeza Hayde Fabiola,2.8049E+15,Prueba Finpais,639,0,1020,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+524,Tejeda San Martin Martha Edith,2.7909E+15,Prueba Finpais,426,0,896,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+525,Tejeda San Martin Martha Edith,2.7909E+15,Prueba Finpais,426,0,978,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+526,Toledo Castulo,2.8777E+15,Prueba Finpais,107,0,543,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+527,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,426,0,526,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+528,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,533,0,662,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+529,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,1065,0,753,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+530,Valderrabano Fernandez Ydalia,2.7909E+15,Prueba Finpais,426,0,525,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+531,Valderrabano Fernandez Ydalia,2.7909E+15,Prueba Finpais,426,0,657,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+532,Vivas Ortiz Emilio Javier,2.0529E+15,Prueba Finpais,639,0,1255,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+533,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,320,0,462,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+534,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,320,0,592,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+535,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,213,0,1052,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+536,Montero Chable Enrique,1.2052E+16,Prueba Finpais,320,0,1019,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+537,Urbina Puga Demetrio,1.205E+16,Prueba Finpais,320,0,1162,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+538,Cortes Vera Javier Armando Roman,1.2052E+16,Prueba Finpais,213,0,1325,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+539,Espana Ortega Leticia,1.2843E+16,Prueba Finpais,639,0,1422,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+540,Magana Collado Alfredo,1.2804E+16,Prueba Finpais,639,0,1425,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+541,Urbina Puga Demetrio,1.205E+16,Prueba Finpais,647,0,1442,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+542,Reyna Celis Arturo,1.2905E+16,Prueba Finpais,107,0,1453,0,12/10/2021,COBRADO,1,
+543,Jimenez Hernandez Cleluvia,1.2794E+16,Prueba Finpais,426,0,1498,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+544,Alarcon Gomez Carlos Alberto,1.279E+16,Prueba Finpais,213,0,493,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+545,Alarcon Gomez Carlos Alberto,1.279E+16,Prueba Finpais,320,0,595,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+546,Alberto Sanchez Pedro,1.2804E+16,Prueba Finpais,107,0,1042,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+547,Alcocer Vasconcelos Mauro,1.2052E+16,Prueba Finpais,405,0,630,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+548,Alejandro Alejandro Eleuterio,1.2804E+16,Prueba Finpais,426,0,477,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+549,Alejandro Cordova Juan,1.2052E+16,Prueba Finpais,1065,0,1113,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+550,Alejandro Cordova Roosevelt Truman,1.2804E+16,Prueba Finpais,426,0,1118,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+551,Alejandro Rodriguez Manuelita,1.279E+16,Prueba Finpais,639,0,859,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+552,Alvarado Antonio Antonio,1.2793E+16,Prueba Finpais,651,0,1034,0,13/10/2021,RECHAZADO,1,Cuenta Inexistente
+553,Alvarado Cruz Sandra Abril,1.2877E+16,Prueba Finpais,426,0,586,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+554,Angulo Dominguez Pedro,1.2804E+16,Prueba Finpais,1065,0,730,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+555,Angulo Ibarra Grisell,1.2804E+16,Prueba Finpais,639,0,792,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+556,Angulo Ibarra Grisell,1.2804E+16,Prueba Finpais,639,0,875,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+557,Angulo Lopez Jose Alfredo,1.2804E+16,Prueba Finpais,1065,0,1216,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+558,Aracen Hernandez Pascual,1.2804E+16,Prueba Finpais,639,0,948,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+559,Arciniega Arevalo Alejandra,1.2804E+16,Prueba Finpais,107,0,1345,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+560,Argueta Pinto Maria Del Carmen,1.279E+16,Prueba Finpais,320,0,980,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+561,Argueta Pinto Maria Del Carmen,1.279E+16,Prueba Finpais,639,0,1285,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+562,Arias Ballester Jose Rodrigo,1.2854E+16,Prueba Finpais,639,0,1244,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+563,Arias Dominguez Carlos Arturo,1.2794E+16,Prueba Finpais,639,0,1256,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+564,Arias Gonzalez Jose,1.2804E+16,Prueba Finpais,320,0,761,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+565,Ascencio Hernandez Justo Francisco,1.279E+16,Prueba Finpais,3195,0,624,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+566,Barragan Segovia Tirso Alejandro,1.279E+16,Prueba Finpais,639,0,912,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+567,Behulo Reyes Geny Del Carmen,1.279E+16,Prueba Finpais,198,0,495,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+568,Behulo Reyes Geny Del Carmen,1.279E+16,Prueba Finpais,426,0,591,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+569,Berrones Rivera Josefina,1.279E+16,Prueba Finpais,213,0,447,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+570,Borjon Bermudez Juan Francisco,1.2804E+16,Prueba Finpais,639,0,931,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+571,Bucio Marquez Rodolfo,1.2804E+16,Prueba Finpais,533,0,905,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+572,Campuzano Hernandez Jose,1.2804E+16,Prueba Finpais,1065,0,874,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+573,Carballo Hernandez Luz Maria,1.2804E+16,Prueba Finpais,320,0,889,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+574,Cardeno Garcia Carlos Rene,1.2052E+16,Prueba Finpais,426,0,973,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+575,Cardeno Garcia Carlos Rene,1.2052E+16,Prueba Finpais,639,0,1172,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+576,Celis Gonzalez Rodolfo,1.279E+16,Prueba Finpais,639,0,1195,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+577,Cerino Gaspar Maribel,1.279E+16,Prueba Finpais,320,0,437,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+578,Cerino Gaspar Maribel,1.279E+16,Prueba Finpais,320,0,725,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+579,Chable Alvarez Maria Del Carmen,1.2793E+16,Prueba Finpais,320,0,1361,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+580,Cobos Pando Gregorio,1.2052E+16,Prueba Finpais,3173,0,1317,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+581,Collado Garcia Gustavo,1.2804E+16,Prueba Finpais,1065,0,1273,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+582,Cordova Castellanos Jesus,1.2804E+16,Prueba Finpais,426,0,929,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+583,Cordova Javier Gilberto,1.2804E+16,Prueba Finpais,1065,0,1126,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+584,Cruz Alejandro Marqueza,1.2804E+16,Prueba Finpais,639,0,1462,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+585,Cruz Angel Martha Eugenia,1.2052E+16,Prueba Finpais,213,0,902,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+586,Cruz Gomez Ruben Dario,1.2804E+16,Prueba Finpais,533,0,958,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+587,Cruz Sierra Emily,1.2794E+16,Prueba Finpais,639,0,1123,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+588,Cundapi Cabrera Arturo Rafael,1.2804E+16,Prueba Finpais,426,0,847,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+589,De Dios Frias Janet,1.279E+16,Prueba Finpais,852,0,805,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+590,De Jesus Cespedes Juan Cirino,1.2888E+16,Prueba Finpais,639,0,573,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+591,De Jesus Cespedes Juan Cirino,1.2888E+16,Prueba Finpais,426,0,754,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+592,De La Cruz Cruz Jose Miguel,1.279E+16,Prueba Finpais,639,0,1133,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+593,De La Cruz Garcia Eraldi,1.2804E+16,Prueba Finpais,639,0,1401,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+594,De La Rosa Castillo Sergio,1.279E+16,Prueba Finpais,533,0,670,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+595,De Los Santos Lopez Jesus Arturo,1.279E+16,Prueba Finpais,639,0,1385,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+596,Dominguez Garcia Ignacio,1.2804E+16,Prueba Finpais,639,0,746,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+597,Dominguez Garcia Ignacio,1.2804E+16,Prueba Finpais,639,0,970,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+598,Dominguez Linaldi Jose Luis,1.2052E+16,Prueba Finpais,320,0,555,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+599,Dominguez Linaldi Jose Luis,1.2052E+16,Prueba Finpais,320,0,656,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+600,Fajardo Zamora Rebeca,1.2888E+16,Prueba Finpais,426,0,817,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+601,Feria Balcazar Irving,1.291E+16,Prueba Finpais,639,0,921,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+602,Gallegos Ramon Antonio,1.279E+16,Prueba Finpais,426,0,1298,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+603,Garcia De La Cruz Eleuterio,1.279E+16,Prueba Finpais,192,0,1292,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+604,Garcia Dominguez Miguel Antonio,1.2804E+16,Prueba Finpais,639,0,1193,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+605,Garcia Gonzalez Saul,1.2804E+16,Prueba Finpais,426,0,793,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+606,Garcia Ortiz Irma,1.2793E+16,Prueba Finpais,639,0,922,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+607,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,639,0,536,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+608,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,426,0,637,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+609,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,639,0,775,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+610,Geronimo Ramirez Andrea Del Carmen,1.2804E+16,Prueba Finpais,639,0,1213,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+611,Gil Madrigal Gabriela,1.2804E+16,Prueba Finpais,852,0,797,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+612,Gomez Bejarano Eduardo,1.2794E+16,Prueba Finpais,639,0,743,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+613,Gomez Bejarano Eduardo,1.2794E+16,Prueba Finpais,639,0,1018,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+614,Gomez Jimenez Alvaro,1.2794E+16,Prueba Finpais,639,0,1365,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+615,Gomez Rodriguez Julio,1.2877E+16,Prueba Finpais,213,0,1376,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+616,Gomez Vera Roberto,1.218E+16,Prueba Finpais,213,0,1399,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+617,Gonzalez Evenes Hindira Luisa,1.2854E+16,Prueba Finpais,320,0,1245,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+618,Granda Dufour German,1.2792E+16,Prueba Finpais,320,0,669,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+619,Guillen Morales Alberto,1.2843E+16,Prueba Finpais,213,0,810,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+620,Hernandez Acopa Esmeralda,1.279E+16,Prueba Finpais,639,0,540,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+621,Hernandez Acopa Esmeralda,1.279E+16,Prueba Finpais,639,0,658,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+622,Hernandez Alonso Agustin,1.2795E+16,Prueba Finpais,213,0,1373,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+623,Hernandez Damian Guillermo,1.2052E+16,Prueba Finpais,320,0,544,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+624,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,213,0,436,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+625,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,213,0,559,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+626,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,320,0,1200,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+627,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,639,0,1379,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+628,Hernandez Sanchez Maria Cristina,1.2873E+16,Prueba Finpais,426,0,1187,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+629,Hernandez Viveros Andres,1.2052E+16,Prueba Finpais,213,0,1334,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+630,Javier Dominguez Guadalupe,1.2804E+16,Prueba Finpais,213,0,925,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+631,Jimenez Alvarez Maria Jesus,1.2052E+16,Prueba Finpais,639,0,1497,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+632,Jimenez Cordova Ana Maria,1.279E+16,Prueba Finpais,852,0,800,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+633,Jimenez Gonzalez Obed,1.2794E+16,Prueba Finpais,639,0,1313,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+634,Lara Pena Jose Ariel,1.2888E+16,Prueba Finpais,320,0,858,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+635,Lara Toraya Jacqueline,1.279E+16,Prueba Finpais,639,0,720,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+636,Lara Toraya Jacqueline,1.279E+16,Prueba Finpais,639,0,832,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+637,Lerma Leija Victor Hugo,1.2793E+16,Prueba Finpais,320,0,1257,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+638,Lopez Burelo Carolina,1.2804E+16,Prueba Finpais,426,0,1053,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+639,Lopez Cordova Aura Del Carmen,1.2794E+16,Prueba Finpais,213,0,1176,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+640,Lopez De Los Angeles Bernabe,1.2854E+16,Prueba Finpais,639,0,1115,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+641,Lopez Diaz Karlos Edwin,1.279E+16,Prueba Finpais,1065,0,834,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+642,Lopez Diaz Karlos Edwin,1.279E+16,Prueba Finpais,639,0,1309,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+643,Lopez Dominguez Joel,1.2873E+16,Prueba Finpais,426,0,977,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+644,Lopez Dominguez Marvin,1.2843E+16,Prueba Finpais,1065,0,1166,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+645,Lopez Felix Marco Antonio,1.2804E+16,Prueba Finpais,639,0,882,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+646,Lopez Felix Marco Antonio,1.2804E+16,Prueba Finpais,639,0,1056,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+647,Lopez Hernandez Guadalupe Selene,1.2792E+16,Prueba Finpais,405,0,1316,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+648,Lopez Osorio Francisco,1.2804E+16,Prueba Finpais,213,0,575,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+649,Lopez Perez Luis Roberto,1.2843E+16,Prueba Finpais,533,0,951,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+650,Magana Brown Veronica Del Carmen,1.279E+16,Prueba Finpais,639,0,715,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+651,Magana Cordova Guadalupe,1.2795E+16,Prueba Finpais,639,0,728,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+652,Magana Jimenez Fabiola,1.2804E+16,Prueba Finpais,213,0,928,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+653,Magana Jimenez Fabiola,1.2804E+16,Prueba Finpais,639,0,1090,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+654,Magana Raymundo Diana Isela,1.2794E+16,Prueba Finpais,533,0,979,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+655,Marquez Castillo Ignacio,1.2877E+16,Prueba Finpais,320,0,497,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+656,Martinez Martinez Isidro,1.2793E+16,Prueba Finpais,639,0,935,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+657,Martinez Silvan Juan Gabriel,1.2794E+16,Prueba Finpais,639,0,1214,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+658,Mayo Hernandez Ricarte,1.2793E+16,Prueba Finpais,426,0,898,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+659,Montejo Montejo Rigoberto,1.2794E+16,Prueba Finpais,533,0,1114,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+660,Morato Berman Daniel Alfonso,1.279E+16,Prueba Finpais,2130,0,663,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+661,Ocana Luciano Jose Reyes,1.2793E+16,Prueba Finpais,213,0,1196,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+662,Orta Hernandez Luis Guillermo,1.2804E+16,Prueba Finpais,1065,0,982,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+663,Padilla Lule Adela,1.218E+16,Prueba Finpais,533,0,1236,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+664,Pancardo Bussart Arturo,1.2794E+16,Prueba Finpais,1065,0,1122,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+665,Peraza Gomez Rosario,1.2052E+16,Prueba Finpais,213,0,700,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+666,Perez Gomez Jhon Sebastian,1.2804E+16,Prueba Finpais,107,0,1046,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+667,Perez Romero Lucia,1.2804E+16,Prueba Finpais,852,0,879,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+668,Ponce Flores Jair,1.2804E+16,Prueba Finpais,213,0,1152,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+669,Ramirez De La Cruz Maximo,1.2792E+16,Prueba Finpais,639,0,1444,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+670,Ramirez Hernandez Hernan,1.279E+16,Prueba Finpais,107,0,644,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+671,Ramirez Hernandez Hernan,1.279E+16,Prueba Finpais,213,0,1175,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+672,Ramirez Munoz Jym,1.2052E+16,Prueba Finpais,320,0,1220,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+673,Ramon Rios Ricardo,1.2877E+16,Prueba Finpais,213,0,515,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+674,Ramos Gomez Rene Alfonso,1.2804E+16,Prueba Finpais,639,0,1243,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+675,Ricardez Gallegos Virgilio,1.2804E+16,Prueba Finpais,1065,0,1054,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+676,Rodriguez Ricardez Jose Guadalupe,1.2804E+16,Prueba Finpais,639,0,841,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+677,Rodriguez Ricardez Jose Guadalupe,1.2804E+16,Prueba Finpais,639,0,1006,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+678,Rosaldo Rodriguez Juan Luis,1.2052E+16,Prueba Finpais,426,0,589,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+679,Rosaldo Rodriguez Juan Luis,1.2052E+16,Prueba Finpais,533,0,765,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+680,Sanchez Bautista Candelario,1.2804E+16,Prueba Finpais,639,0,747,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+681,Santiago Garcia Jose Alfredo,1.279E+16,Prueba Finpais,107,0,661,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+682,Santiago Joachin Eder,1.2804E+16,Prueba Finpais,639,0,910,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+683,Santo Cruz Jesus Manuel,1.2804E+16,Prueba Finpais,639,0,719,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+684,Santos Arias Luis Alberto,1.2804E+16,Prueba Finpais,1065,0,854,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+685,Santos Jauregui Jorge,1.2804E+16,Prueba Finpais,533,0,906,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+686,Santos Palma Manuel,1.2804E+16,Prueba Finpais,1065,0,665,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+687,Silvan Ballina Maria Victoria,1.2052E+16,Prueba Finpais,639,0,583,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+688,Sosa Alonso Juan Carlos,1.279E+16,Prueba Finpais,320,0,659,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+689,Sosa Alonso Juan Carlos,1.279E+16,Prueba Finpais,533,0,774,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+690,Sosa Tejeda Antonio,1.2804E+16,Prueba Finpais,639,0,1011,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+691,Torres Lopez Leydi Maria,1.218E+16,Prueba Finpais,320,0,1306,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+692,Torres Ramirez Miguel,1.218E+16,Prueba Finpais,639,0,1342,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+693,Torres Torres Agustin,1.279E+16,Prueba Finpais,213,0,729,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+694,Torres Torres Agustin,1.279E+16,Prueba Finpais,1065,0,812,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+695,Torres Torres Agustin,1.279E+16,Prueba Finpais,639,0,943,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+696,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,237,0,407,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+697,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,213,0,457,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+698,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,213,0,585,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+699,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,213,0,431,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+700,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,426,0,474,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+701,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,213,0,588,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+702,Urena Arbona Nallely,1.2794E+16,Prueba Finpais,639,0,1180,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+703,Valenzuela Castellanos Ives Raul,1.2804E+16,Prueba Finpais,320,0,1264,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+704,Velazquez Ruiz Isaias,1.279E+16,Prueba Finpais,1385,0,1085,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+705,Vidal Ramos Maria Del Carmen,1.2792E+16,Prueba Finpais,473,0,363,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+706,Zacarias Perez Mayra,1.218E+16,Prueba Finpais,426,0,1300,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+707,Arceo Ortiz Arturo,1.48546E+16,Prueba Finpais,639,0,742,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+708,Berman Oviedo Maria Isabel,1.47906E+16,Prueba Finpais,213,0,556,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+709,Cruz Martinez Luis Guillermo,1.48546E+16,Prueba Finpais,128,0,1521,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+710,Domiguez Santiago Alvaro,1.48776E+16,Prueba Finpais,639,0,522,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+711,Elvira Maria,1.49056E+16,Prueba Finpais,213,0,445,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+712,Estudillo Arias Santiago,1.48546E+16,Prueba Finpais,320,0,716,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+713,Flores Herrera Liliana Del Carmen,1.48776E+16,Prueba Finpais,320,0,1522,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+714,Garcia Jimenez Pablo,1.48546E+16,Prueba Finpais,426,0,789,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+715,Gonzalez Lopez Maria Isabel,1.48546E+16,Prueba Finpais,320,0,999,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+716,Lopez Perez Ofelia,1.48736E+16,Prueba Finpais,107,0,1232,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+717,Luria Montiel Javier Armando,1.48776E+16,Prueba Finpais,320,0,542,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+718,Mendoza Hernandez Juan Carlos,1.47906E+16,Prueba Finpais,639,0,837,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+719,Ortiz Perez Reynaldo,1.48776E+16,Prueba Finpais,107,0,653,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+720,Ortiz Perez Reynaldo,1.48776E+16,Prueba Finpais,107,0,785,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+721,Pecero Covarrubias Valdemar,1.47906E+16,Prueba Finpais,639,0,601,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+722,Rodriguez Carmona Amador,1.48546E+16,Prueba Finpais,320,0,1252,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+723,Vargas Jallath Martha Patricia,1.49106E+16,Prueba Finpais,639,0,745,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+724,Chable Junco Carmen,2.18021E+16,Prueba Finpais,639,0,1411,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+725,Aguilar Lazaro Maday,2.17901E+16,Prueba Finpais,639,0,1403,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+726,Alcudia Martinez Miguel,2.18541E+16,Prueba Finpais,320,0,1076,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+727,Alcudia Ventura Jose Santos,2.17941E+16,Prueba Finpais,1065,0,1198,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+728,Alejandro Perez Dalver Jesus,2.17901E+16,Prueba Finpais,1065,0,1189,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+729,Amaya Hernandez Jose Reyes,2.17941E+16,Prueba Finpais,639,0,1060,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+730,Arjona Flores Cristobal,2.17901E+16,Prueba Finpais,639,0,1040,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+731,Avalos De La Cruz Apolinar,2.17901E+16,Prueba Finpais,1065,0,855,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+732,Avalos Madrigal Juan,2.17901E+16,Prueba Finpais,639,0,1505,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+733,Baz Vega Gilberto,2.10521E+16,Prueba Finpais,256,0,612,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+734,Bermudez Gomez Gutemberg,2.17901E+16,Prueba Finpais,1065,0,695,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+735,Cancino Hernandez Arturo,2.17901E+16,Prueba Finpais,639,0,883,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+736,Carrillo Alejandro Norma Alicia,2.17901E+16,Prueba Finpais,639,0,677,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+737,Carrillo Jimenez Abel,2.17901E+16,Prueba Finpais,639,0,938,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+738,Carrillo Marquez Jose Del Carmen,2.10521E+16,Prueba Finpais,639,0,1147,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+739,Castellanos Castillo Jose Alberto,2.179E+16,Prueba Finpais,426,0,1408,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+740,Castillo Castellanos Wilians,2.17901E+16,Prueba Finpais,426,0,1286,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+741,Cerecedo Balanzategui Sergio,2.19031E+16,Prueba Finpais,426,0,811,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+742,Chable Sanchez Rafael Enrique,2.17901E+16,Prueba Finpais,852,0,796,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+743,Colorado Gonzalez Oscar,2.17901E+16,Prueba Finpais,639,0,731,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+744,Cordova Cordova Santana,2.17901E+16,Prueba Finpais,1065,0,867,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+745,Cruz Hernandez Jorge Alberto,2.17901E+16,Prueba Finpais,1065,0,757,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+746,De Los Santos Castillejos Elias,2.11001E+16,Prueba Finpais,639,0,1105,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+747,Del Rio Martinez Luis Manuel,2.17901E+16,Prueba Finpais,639,0,604,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+748,Del Rivero Vargas Horacio,2.10521E+16,Prueba Finpais,426,0,578,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+749,Domiguez Yzquierdo Roberto,2.17901E+16,Prueba Finpais,107,0,1468,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+750,Espinosa Chan Cesar,2.10521E+16,Prueba Finpais,320,0,553,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+751,Falconi Carrillo Wendy Selene,2.17901E+16,Prueba Finpais,639,0,1008,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+752,Figueroa Jarauta Honorato,2.17901E+16,Prueba Finpais,533,0,1079,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+753,Gallegos Cordova Carlos Manuel,2.17901E+16,Prueba Finpais,639,0,1048,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+754,Garcia De La Cruz William,2.17901E+16,Prueba Finpais,639,0,1416,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+755,Garcia Gonzalez Carmen,2.17901E+16,Prueba Finpais,213,0,1346,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+756,Gonzalez Castillo Jorge,2.17901E+16,Prueba Finpais,107,0,1144,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+757,Gonzalez Flores Jose Antonio,2.17901E+16,Prueba Finpais,426,0,783,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+758,Gonzalez Olan Benicia,2.17901E+16,Prueba Finpais,213,0,1323,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+759,Gutierrez Ventura Andres,2.17901E+16,Prueba Finpais,639,0,838,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+760,Gutierrez Ventura Andres,2.17901E+16,Prueba Finpais,639,0,1092,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+761,Hernandez Ballina Melchor,2.10521E+16,Prueba Finpais,306,0,483,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+762,Hernandez Cano Maria Salome,2.10521E+16,Prueba Finpais,639,0,600,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+763,Hernandez Cano Maria Salome,2.10521E+16,Prueba Finpais,639,0,788,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+764,Hernandez De La Rosa Gonzalo,2.17901E+16,Prueba Finpais,192,0,1415,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+765,Hernandez Izquierdo Raciel,2.17901E+16,Prueba Finpais,639,0,773,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+766,Hernandez Jimenez Maria Isabel,2.17901E+16,Prueba Finpais,639,0,916,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+767,Hernandez Marquez Faustino,2.17901E+16,Prueba Finpais,426,0,995,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+768,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,639,0,668,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+769,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,639,0,772,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+770,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,213,0,1125,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+771,Jimenez Alcudia Filonila,2.179E+16,Prueba Finpais,320,0,1111,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+772,Jimenez Jimenez Irlanda,2.17941E+16,Prueba Finpais,639,0,1038,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+773,Lezcano Hernandez Jhony Alonso,2.17901E+16,Prueba Finpais,639,0,1039,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+774,Ligonio Contreras Asuncion,2.17901E+16,Prueba Finpais,1065,0,971,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+775,Magana Ronny Javier,2.17901E+16,Prueba Finpais,320,0,892,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+776,Magana Tejada Salvador,2.1794E+16,Prueba Finpais,213,0,1165,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+777,Marquez Santos Sebastian,2.17901E+16,Prueba Finpais,426,0,607,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+778,Martinez Jimenez Daniel Guadalupe,2.10521E+16,Prueba Finpais,639,0,697,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+779,Mateo Casimiro Justo,2.17941E+16,Prueba Finpais,213,0,1280,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+780,Mauleon Perez Zuemi Del Mar,2.17901E+16,Prueba Finpais,1065,0,1210,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+781,Mayo Ramos Nicolas,2.17921E+16,Prueba Finpais,639,0,1163,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+782,Mendez Lopez Nicolas,2.10521E+16,Prueba Finpais,426,0,926,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+783,Morales Garduzca Miguel,2.17941E+16,Prueba Finpais,426,0,1326,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+784,Notario Celaya Silvia Graciela,2.17901E+16,Prueba Finpais,639,0,944,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+785,Ovando Sanchez Alexander,2.17901E+16,Prueba Finpais,639,0,780,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+786,Palma Arjona Daniel,2.17901E+16,Prueba Finpais,171,0,1315,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+787,Palma Dominguez Elias,2.179E+16,Prueba Finpais,1065,0,675,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+788,Palma Dominguez Elias,2.179E+16,Prueba Finpais,639,0,831,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+789,Perez Alor Carlos,2.18771E+16,Prueba Finpais,639,0,840,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+790,Perez Gongora Manuel,2.10521E+16,Prueba Finpais,213,0,458,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+791,Perez Gongora Manuel,2.10521E+16,Prueba Finpais,107,0,582,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+792,Perez Ventura Angel Alberto,2.17901E+16,Prueba Finpais,639,0,809,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+793,Perez Ventura Angel Alberto,2.17901E+16,Prueba Finpais,639,0,1049,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+794,Rabanales Dominguez Herminio,2.17941E+16,Prueba Finpais,639,0,1177,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+795,Ramirez Rodriguez Freddy,2.17901E+16,Prueba Finpais,320,0,998,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+796,Reguero Gomez Jorge Alberto,2.17901E+16,Prueba Finpais,639,0,1031,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+797,Rodriguez Alejandro Maria Cruz,2.17901E+16,Prueba Finpais,1065,0,1021,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+798,Rodriguez Hernandez Graciela,2.10521E+16,Prueba Finpais,639,0,1028,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+799,Rodriguez Hernandez Guillermo,2.1052E+16,Prueba Finpais,320,0,581,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+800,Rodriguez Hernandez Guillermo,2.1052E+16,Prueba Finpais,213,0,713,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+801,Rodriguez Lazaro Julio De La Cruz,2.17901E+16,Prueba Finpais,639,0,1507,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+802,Rodriguez Perez Ricardo,2.1052E+16,Prueba Finpais,3018,0,1383,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+803,Rodriguez Ramos Angel Daniel,2.17901E+16,Prueba Finpais,639,0,748,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+804,Romero Milla Manuel Moises,2.17901E+16,Prueba Finpais,651,0,1036,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+805,Rueda Palma Teodoro,2.19101E+16,Prueba Finpais,639,0,786,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+806,Ruz Morales Arturo,2.10521E+16,Prueba Finpais,306,0,503,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+807,Salazar Cruz Crisanto,2.10521E+16,Prueba Finpais,150,0,554,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+808,Salazar Cruz Crisanto,2.10521E+16,Prueba Finpais,213,0,646,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+809,Sanchez De La Cruz Jose Francisco,2.17901E+16,Prueba Finpais,639,0,674,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+810,Sanchez Ramirez Flor Del Rocio,2.17901E+16,Prueba Finpais,426,0,673,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+811,Sanchez Santos Manuel Guadalupe,2.17901E+16,Prueba Finpais,852,0,617,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+812,Sanchez Santos Manuel Guadalupe,2.17901E+16,Prueba Finpais,852,0,870,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+813,Santo Marquez Elias,2.17901E+16,Prueba Finpais,639,0,1496,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+814,Santos Garcia Ana Rosa,2.17901E+16,Prueba Finpais,639,0,885,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+815,Solis Escalante Manuel Antonio,2.1052E+16,Prueba Finpais,639,0,548,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+816,Torres Lopez Darvin,2.17941E+16,Prueba Finpais,1065,0,648,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+817,Valencia Hernandez Jorge,2.17901E+16,Prueba Finpais,213,0,804,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+818,Vazquez Lopez Maribel,2.10521E+16,Prueba Finpais,213,0,640,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+819,Velazquez Cancino Manuel Enrique,2.17901E+16,Prueba Finpais,639,0,712,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+820,Vera San Lucas Jose Del Carmen,2.10521E+16,Prueba Finpais,639,0,724,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+821,Vicente Rodriguez Luis Roberto,2.17901E+16,Prueba Finpais,639,0,687,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+822,Vicente Rodriguez Luis Roberto,2.17901E+16,Prueba Finpais,639,0,829,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+823,Villalobos Hernandez Edgar,2.17901E+16,Prueba Finpais,852,0,722,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+824,Villalobos Sierra Enrique,2.10521E+16,Prueba Finpais,639,0,567,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+825,Villanueva Wilson Joaquin,2.17901E+16,Prueba Finpais,1065,0,1141,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+826,Zurita Gomez Jose Luis,2.17901E+16,Prueba Finpais,426,0,1338,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+827,Vidal Perez Maria Guadalupe,4.48023E+16,Prueba Finpais,426,0,1435,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+828,Hernandez Montero Jose Antonio,1.2779E+17,Prueba Finpais,639,0,794,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+829,Hernandez Montero Jose Antonio,1.2779E+17,Prueba Finpais,426,0,1027,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+830,De La Fuente Vecente Luis,2.8779E+15,Prueba Finpais,196,0,516,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+831,Perez Felix Lourdes,2.7939E+15,Prueba Finpais,131,0,1450,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+832,Aguilar Javier Augusto Cesar,2.7949E+15,Prueba Finpais,262,0,967,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+833,Alamillo Romero Patricia,2.7929E+15,Prueba Finpais,392,0,1281,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+834,Aleman Vazquez Eva Lilia,2.5809E+15,Prueba Finpais,392,0,1071,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+835,Alvarez Aguilar Ignacio,2.8439E+15,Prueba Finpais,66,0,500,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+836,Amador Salomon Pedro,2.8989E+15,Prueba Finpais,66,0,1168,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+837,Arangure Sarmiento Jesus,2.0529E+15,Prueba Finpais,188,0,482,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+838,Arias Perez Leysi Gabriela,2.8439E+15,Prueba Finpais,392,0,1311,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+839,Arrieta Zurita Vianney,2.7909E+15,Prueba Finpais,262,0,486,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+840,Arrieta Zurita Vianney,2.7909E+15,Prueba Finpais,131,0,864,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+841,Avalos Herrera Daniel,2.8049E+15,Prueba Finpais,392,0,1407,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+842,Bruno Gomez Gonzalo,2.8419E+15,Prueba Finpais,392,0,741,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+843,Cabrera Mendoza Alexandre Rigoberto,2.05245E+15,Prueba Finpais,392,0,909,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+844,Carvajal Reyes Luis Abraham,2.9109E+15,Prueba Finpais,793,0,1438,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+845,Castillo Davila Juan Antonio,2.1289E+15,Prueba Finpais,131,0,1228,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+846,Castillo Garcia Rocio Del Carmen,2.8907E+15,Prueba Finpais,784,0,1529,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+847,Cerino Gaspar Maria De La Luz,2.7909E+15,Prueba Finpais,196,0,433,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+848,Cerino Gaspar Maria De La Luz,2.7909E+15,Prueba Finpais,262,0,752,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+849,Chavez Miranda Oscar Raul,2.7909E+15,Prueba Finpais,392,0,562,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+850,Chavez Miranda Oscar Raul,2.7909E+15,Prueba Finpais,653,0,672,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+851,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,262,0,974,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+852,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,262,0,1174,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+853,Chio Junco Dayana Guadalupe,2.0529E+15,Prueba Finpais,262,0,1440,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+854,Coba Alarcon Andres,2.8779E+15,Prueba Finpais,392,0,534,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+855,Coba Lazo Andrea Lizeth,2.8779E+15,Prueba Finpais,392,0,532,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+856,Comino Magana Lucio Augusto,2.0529E+15,Prueba Finpais,125,0,498,0,12/10/2021,COBRADO,1,
+857,Cordero Ortega Elydeth,2.7909E+15,Prueba Finpais,392,0,763,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+858,Cornelio Guillen Asael,2.1289E+15,Prueba Finpais,392,0,546,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+859,Cruz Garcia Carlos,2.8739E+15,Prueba Finpais,262,0,1324,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+860,Cundapi Cabrera Jonas,2.8049E+15,Prueba Finpais,523,0,799,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+861,Cundapi Cabrera Jose Angel,2.8049E+15,Prueba Finpais,653,0,756,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+862,De Dios Broca Ezequiel,2.7907E+15,Prueba Finpais,196,0,1320,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+863,De La Cruz Jeronimo Julio Cesar,2.7909E+15,Prueba Finpais,262,0,530,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+864,De La Cruz Jeronimo Julio Cesar,2.7909E+15,Prueba Finpais,262,0,643,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+865,Del Rio Martinez Matilde,2.7907E+15,Prueba Finpais,392,0,942,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+866,Delgado Ramirez Danny Alejandro,2.0529E+15,Prueba Finpais,793,0,1515,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+867,Dionisio Vazquez Jorge Ivan,2.8779E+15,Prueba Finpais,262,0,1447,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+868,Dominguez Guzman Diana Valeria,2.8779E+15,Prueba Finpais,392,0,512,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+869,Dominguez Perez Gilberto,2.8049E+15,Prueba Finpais,131,0,1259,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+870,Felix Hernandez Javier,2.7939E+15,Prueba Finpais,392,0,1000,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+871,Fernandez De Lara Vadillo Carlos Manuel,2.8909E+15,Prueba Finpais,1322,0,1382,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+872,Flores Dominguez Eliacer,2.8049E+15,Prueba Finpais,196,0,1145,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+873,Fonseca Sanchez Lina,2.7909E+15,Prueba Finpais,392,0,904,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+874,Galvez Balboa Norma Edith,2.0529E+15,Prueba Finpais,262,0,962,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+875,Garcia Reyes Jose,2.1289E+15,Prueba Finpais,392,0,778,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+876,Garcia Vargas Miguel Angel,2.8069E+15,Prueba Finpais,131,0,494,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+877,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,66,0,485,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+878,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,196,0,590,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+879,Garcia Zurita Martha Maria,2.7909E+15,Prueba Finpais,131,0,691,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+880,Geronimo Geronimo Juan,2.8049E+15,Prueba Finpais,131,0,579,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+881,Geronimo Geronimo Juan,2.8049E+15,Prueba Finpais,196,0,645,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+882,Gomez Perez Josefa Del Carmen,2.7909E+15,Prueba Finpais,131,0,1155,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+883,Gomez Reyes Francisco,2.8049E+15,Prueba Finpais,392,0,1117,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+884,Gorrochotegui Priego Crhistian David,2.1289E+15,Prueba Finpais,196,0,1057,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+885,Gorrochotegui Priego Crhistian David,2.1289E+15,Prueba Finpais,392,0,1194,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+886,Guerrero Barajas Miguel Angel,2.7949E+15,Prueba Finpais,392,0,680,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+887,Guerrero Barajas Miguel Angel,2.7949E+15,Prueba Finpais,392,0,918,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+888,Gutierrez Morales Rosa Elena,2.7909E+15,Prueba Finpais,653,0,887,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+889,Gutierrez Morales Rosa Elena,2.7909E+15,Prueba Finpais,262,0,1010,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+890,Guzman Dodero Rodolfo,2.7929E+15,Prueba Finpais,196,0,913,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+891,Guzman Dodero Rodolfo,2.7929E+15,Prueba Finpais,131,0,1017,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+892,Hernandez De Dios Eddy,2.8049E+15,Prueba Finpais,196,0,955,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+893,Hernandez Enriquez Cesar,2.7909E+15,Prueba Finpais,653,0,1270,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+894,Hernandez Vazquez Angel,2.8699E+15,Prueba Finpais,131,0,518,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+895,Hernandez Vazquez Angel,2.8699E+15,Prueba Finpais,262,0,822,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+896,Herrera Avalos Estela,2.7949E+15,Prueba Finpais,66,0,641,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+897,Jimenez Leon Blanca Estela,2.1289E+15,Prueba Finpais,262,0,519,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+898,Jimenez Moreno Maria Victoria,2.8049E+15,Prueba Finpais,131,0,1150,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+899,Jimenez Perez Regino,2.7909E+15,Prueba Finpais,131,0,932,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+900,Jimenez Perez Regino,2.7909E+15,Prueba Finpais,131,0,1108,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+901,Juarez Lopez Sandra,2.8029E+15,Prueba Finpais,392,0,1426,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+902,Lara Toraya Laura,2.7939E+15,Prueba Finpais,392,0,702,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+903,Lara Toraya Laura,2.7939E+15,Prueba Finpais,392,0,762,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+904,Laureano Ocana Luis,2.8029E+15,Prueba Finpais,392,0,1137,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+905,Lopez Alcazar Jorge Luis,2.7909E+15,Prueba Finpais,523,0,711,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+906,Lopez Gemas Viviano,2.1289E+15,Prueba Finpais,66,0,1290,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+907,Lopez Jimenez Lazaro,2.8049E+15,Prueba Finpais,392,0,698,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+908,Lorenzo Madrigal Antonio,2.7909E+15,Prueba Finpais,265,0,1381,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+909,Magana Marquez Dagoberto,2.7949E+15,Prueba Finpais,392,0,939,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+910,Narvaez Cordova Juan,2.7939E+15,Prueba Finpais,327,0,1360,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+911,Ocana De La Cruz Fernando,2.7939E+15,Prueba Finpais,196,0,1231,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+912,Olan Delgado Yazmin,2.7947E+15,Prueba Finpais,131,0,1353,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+913,Olan Diaz Manuel Antonio,2.7909E+15,Prueba Finpais,392,0,460,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+914,Olan Dominguez Sandra,2.7909E+15,Prueba Finpais,131,0,529,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+915,Olan Dominguez Sandra,2.7909E+15,Prueba Finpais,392,0,768,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+916,Ortiz Padron Samuel,2.8779E+15,Prueba Finpais,131,0,676,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+917,Ovando Cerino Jose Elias,2.0529E+15,Prueba Finpais,1306,0,1072,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+918,Pascual Cruz Henry,2.0529E+15,Prueba Finpais,131,0,608,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+919,Perez Gomez Jose Alfredo,2.8049E+15,Prueba Finpais,392,0,1129,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+920,Perez Javier Juan Carlos,2.8049E+15,Prueba Finpais,392,0,744,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+921,Perez Javier Juan Carlos,2.8049E+15,Prueba Finpais,392,0,1086,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+922,Pinto Moreno Maria Del Carmen,2.05245E+15,Prueba Finpais,66,0,1526,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+923,Prado Pena Angel,2.8989E+15,Prueba Finpais,392,0,1202,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+924,Ricardez Izquierdo Gibran,2.8049E+15,Prueba Finpais,196,0,1212,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+925,Rivera Rodriguez Maria Victoria,2.7909E+15,Prueba Finpais,196,0,502,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+926,Riveroll Alvarez Maria Del Carmen,2.79307E+15,Prueba Finpais,196,0,491,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+927,Riveroll Alvarez Maria Del Carmen,2.79307E+15,Prueba Finpais,196,0,593,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+928,Romero Cruz Catalina,2.1289E+15,Prueba Finpais,392,0,1295,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+929,Romero Vazquez Mario,2.7939E+15,Prueba Finpais,392,0,1275,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+930,Rosales Castro Francisco,2.7909E+15,Prueba Finpais,131,0,1064,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+931,Rueda Gil Fredi,2.8049E+15,Prueba Finpais,66,0,647,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+932,Ruiz Arano Matias,2.89802E+15,Prueba Finpais,131,0,894,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+933,Santiago Regalado Francisco,2.8779E+15,Prueba Finpais,784,0,552,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+934,Santos Jimenez Agustin,2.8049E+15,Prueba Finpais,66,0,513,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+935,Santos Jimenez Agustin,2.8049E+15,Prueba Finpais,131,0,779,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+936,Segura Bolaina Alejandro,2.8049E+15,Prueba Finpais,196,0,1229,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+937,Suanes Arroyo Guadalupe,2.8549E+15,Prueba Finpais,66,0,1308,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+938,Suarez Baeza Hayde Fabiola,2.8049E+15,Prueba Finpais,392,0,1020,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+939,Tejeda San Martin Martha Edith,2.7909E+15,Prueba Finpais,262,0,896,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+940,Tejeda San Martin Martha Edith,2.7909E+15,Prueba Finpais,262,0,978,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+941,Toledo Castulo,2.8777E+15,Prueba Finpais,66,0,543,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+942,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,262,0,526,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+943,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,327,0,662,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+944,Valderrabano Fernadez Cristobal Roberto,2.7907E+15,Prueba Finpais,653,0,753,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+945,Valderrabano Fernandez Ydalia,2.7909E+15,Prueba Finpais,262,0,525,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+946,Valderrabano Fernandez Ydalia,2.7909E+15,Prueba Finpais,262,0,657,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+947,Vivas Ortiz Emilio Javier,2.0529E+15,Prueba Finpais,392,0,1255,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+948,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,196,0,462,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+949,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,196,0,592,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+950,Zurita Perez Maria Dolores,2.7909E+15,Prueba Finpais,131,0,1052,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+951,Montero Chable Enrique,1.2052E+16,Prueba Finpais,196,0,1019,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+952,Urbina Puga Demetrio,1.205E+16,Prueba Finpais,196,0,1162,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+953,Cortes Vera Javier Armando Roman,1.2052E+16,Prueba Finpais,131,0,1325,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+954,Espana Ortega Leticia,1.2843E+16,Prueba Finpais,392,0,1422,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+955,Magana Collado Alfredo,1.2804E+16,Prueba Finpais,392,0,1425,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+956,Urbina Puga Demetrio,1.205E+16,Prueba Finpais,397,0,1442,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+957,Reyna Celis Arturo,1.2905E+16,Prueba Finpais,66,0,1453,0,12/10/2021,COBRADO,1,
+958,Jimenez Hernandez Cleluvia,1.2794E+16,Prueba Finpais,262,0,1498,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+959,Alarcon Gomez Carlos Alberto,1.279E+16,Prueba Finpais,131,0,493,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+960,Alarcon Gomez Carlos Alberto,1.279E+16,Prueba Finpais,196,0,595,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+961,Alberto Sanchez Pedro,1.2804E+16,Prueba Finpais,66,0,1042,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+962,Alcocer Vasconcelos Mauro,1.2052E+16,Prueba Finpais,249,0,630,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+963,Alejandro Alejandro Eleuterio,1.2804E+16,Prueba Finpais,262,0,477,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+964,Alejandro Cordova Juan,1.2052E+16,Prueba Finpais,653,0,1113,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+965,Alejandro Cordova Roosevelt Truman,1.2804E+16,Prueba Finpais,262,0,1118,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+966,Alejandro Rodriguez Manuelita,1.279E+16,Prueba Finpais,392,0,859,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+967,Alvarado Antonio Antonio,1.2793E+16,Prueba Finpais,399,0,1034,0,13/10/2021,RECHAZADO,1,Cuenta Inexistente
+968,Alvarado Cruz Sandra Abril,1.2877E+16,Prueba Finpais,262,0,586,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+969,Angulo Dominguez Pedro,1.2804E+16,Prueba Finpais,653,0,730,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+970,Angulo Ibarra Grisell,1.2804E+16,Prueba Finpais,392,0,792,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+971,Angulo Ibarra Grisell,1.2804E+16,Prueba Finpais,392,0,875,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+972,Angulo Lopez Jose Alfredo,1.2804E+16,Prueba Finpais,653,0,1216,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+973,Aracen Hernandez Pascual,1.2804E+16,Prueba Finpais,392,0,948,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+974,Arciniega Arevalo Alejandra,1.2804E+16,Prueba Finpais,66,0,1345,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+975,Argueta Pinto Maria Del Carmen,1.279E+16,Prueba Finpais,196,0,980,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+976,Argueta Pinto Maria Del Carmen,1.279E+16,Prueba Finpais,392,0,1285,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+977,Arias Ballester Jose Rodrigo,1.2854E+16,Prueba Finpais,392,0,1244,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+978,Arias Dominguez Carlos Arturo,1.2794E+16,Prueba Finpais,392,0,1256,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+979,Arias Gonzalez Jose,1.2804E+16,Prueba Finpais,196,0,761,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+980,Ascencio Hernandez Justo Francisco,1.279E+16,Prueba Finpais,1958,0,624,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+981,Barragan Segovia Tirso Alejandro,1.279E+16,Prueba Finpais,392,0,912,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+982,Behulo Reyes Geny Del Carmen,1.279E+16,Prueba Finpais,121,0,495,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+983,Behulo Reyes Geny Del Carmen,1.279E+16,Prueba Finpais,262,0,591,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+984,Berrones Rivera Josefina,1.279E+16,Prueba Finpais,131,0,447,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+985,Borjon Bermudez Juan Francisco,1.2804E+16,Prueba Finpais,392,0,931,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+986,Bucio Marquez Rodolfo,1.2804E+16,Prueba Finpais,327,0,905,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+987,Campuzano Hernandez Jose,1.2804E+16,Prueba Finpais,653,0,874,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+988,Carballo Hernandez Luz Maria,1.2804E+16,Prueba Finpais,196,0,889,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+989,Cardeno Garcia Carlos Rene,1.2052E+16,Prueba Finpais,262,0,973,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+990,Cardeno Garcia Carlos Rene,1.2052E+16,Prueba Finpais,392,0,1172,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+991,Celis Gonzalez Rodolfo,1.279E+16,Prueba Finpais,392,0,1195,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+992,Cerino Gaspar Maribel,1.279E+16,Prueba Finpais,196,0,437,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+993,Cerino Gaspar Maribel,1.279E+16,Prueba Finpais,196,0,725,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+994,Chable Alvarez Maria Del Carmen,1.2793E+16,Prueba Finpais,196,0,1361,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+995,Cobos Pando Gregorio,1.2052E+16,Prueba Finpais,1945,0,1317,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+996,Collado Garcia Gustavo,1.2804E+16,Prueba Finpais,653,0,1273,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+997,Cordova Castellanos Jesus,1.2804E+16,Prueba Finpais,262,0,929,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+998,Cordova Javier Gilberto,1.2804E+16,Prueba Finpais,653,0,1126,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+999,Cruz Alejandro Marqueza,1.2804E+16,Prueba Finpais,392,0,1462,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1000,Cruz Angel Martha Eugenia,1.2052E+16,Prueba Finpais,131,0,902,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1001,Cruz Gomez Ruben Dario,1.2804E+16,Prueba Finpais,327,0,958,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1002,Cruz Sierra Emily,1.2794E+16,Prueba Finpais,392,0,1123,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1003,Cundapi Cabrera Arturo Rafael,1.2804E+16,Prueba Finpais,262,0,847,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1004,De Dios Frias Janet,1.279E+16,Prueba Finpais,523,0,805,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1005,De Jesus Cespedes Juan Cirino,1.2888E+16,Prueba Finpais,392,0,573,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1006,De Jesus Cespedes Juan Cirino,1.2888E+16,Prueba Finpais,262,0,754,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1007,De La Cruz Cruz Jose Miguel,1.279E+16,Prueba Finpais,392,0,1133,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1008,De La Cruz Garcia Eraldi,1.2804E+16,Prueba Finpais,392,0,1401,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1009,De La Rosa Castillo Sergio,1.279E+16,Prueba Finpais,327,0,670,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1010,De Los Santos Lopez Jesus Arturo,1.279E+16,Prueba Finpais,392,0,1385,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1011,Dominguez Garcia Ignacio,1.2804E+16,Prueba Finpais,392,0,746,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1012,Dominguez Garcia Ignacio,1.2804E+16,Prueba Finpais,392,0,970,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1013,Dominguez Linaldi Jose Luis,1.2052E+16,Prueba Finpais,196,0,555,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1014,Dominguez Linaldi Jose Luis,1.2052E+16,Prueba Finpais,196,0,656,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1015,Fajardo Zamora Rebeca,1.2888E+16,Prueba Finpais,262,0,817,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1016,Feria Balcazar Irving,1.291E+16,Prueba Finpais,392,0,921,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1017,Gallegos Ramon Antonio,1.279E+16,Prueba Finpais,262,0,1298,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1018,Garcia De La Cruz Eleuterio,1.279E+16,Prueba Finpais,118,0,1292,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1019,Garcia Dominguez Miguel Antonio,1.2804E+16,Prueba Finpais,392,0,1193,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1020,Garcia Gonzalez Saul,1.2804E+16,Prueba Finpais,262,0,793,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1021,Garcia Ortiz Irma,1.2793E+16,Prueba Finpais,392,0,922,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1022,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,392,0,536,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1023,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,262,0,637,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1024,Geronimo Geronimo Pedro,1.2804E+16,Prueba Finpais,392,0,775,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1025,Geronimo Ramirez Andrea Del Carmen,1.2804E+16,Prueba Finpais,392,0,1213,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1026,Gil Madrigal Gabriela,1.2804E+16,Prueba Finpais,523,0,797,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1027,Gomez Bejarano Eduardo,1.2794E+16,Prueba Finpais,392,0,743,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1028,Gomez Bejarano Eduardo,1.2794E+16,Prueba Finpais,392,0,1018,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1029,Gomez Jimenez Alvaro,1.2794E+16,Prueba Finpais,392,0,1365,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1030,Gomez Rodriguez Julio,1.2877E+16,Prueba Finpais,131,0,1376,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1031,Gomez Vera Roberto,1.218E+16,Prueba Finpais,131,0,1399,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1032,Gonzalez Evenes Hindira Luisa,1.2854E+16,Prueba Finpais,196,0,1245,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1033,Granda Dufour German,1.2792E+16,Prueba Finpais,196,0,669,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1034,Guillen Morales Alberto,1.2843E+16,Prueba Finpais,131,0,810,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1035,Hernandez Acopa Esmeralda,1.279E+16,Prueba Finpais,392,0,540,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1036,Hernandez Acopa Esmeralda,1.279E+16,Prueba Finpais,392,0,658,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1037,Hernandez Alonso Agustin,1.2795E+16,Prueba Finpais,131,0,1373,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1038,Hernandez Damian Guillermo,1.2052E+16,Prueba Finpais,196,0,544,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1039,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,131,0,436,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1040,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,131,0,559,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1041,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,196,0,1200,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1042,Hernandez Gracian Alejandro,1.2793E+16,Prueba Finpais,392,0,1379,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1043,Hernandez Sanchez Maria Cristina,1.2873E+16,Prueba Finpais,262,0,1187,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1044,Hernandez Viveros Andres,1.2052E+16,Prueba Finpais,131,0,1334,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1045,Javier Dominguez Guadalupe,1.2804E+16,Prueba Finpais,131,0,925,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1046,Jimenez Alvarez Maria Jesus,1.2052E+16,Prueba Finpais,392,0,1497,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1047,Jimenez Cordova Ana Maria,1.279E+16,Prueba Finpais,523,0,800,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1048,Jimenez Gonzalez Obed,1.2794E+16,Prueba Finpais,392,0,1313,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1049,Lara Pena Jose Ariel,1.2888E+16,Prueba Finpais,196,0,858,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1050,Lara Toraya Jacqueline,1.279E+16,Prueba Finpais,392,0,720,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1051,Lara Toraya Jacqueline,1.279E+16,Prueba Finpais,392,0,832,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1052,Lerma Leija Victor Hugo,1.2793E+16,Prueba Finpais,196,0,1257,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1053,Lopez Burelo Carolina,1.2804E+16,Prueba Finpais,262,0,1053,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1054,Lopez Cordova Aura Del Carmen,1.2794E+16,Prueba Finpais,131,0,1176,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1055,Lopez De Los Angeles Bernabe,1.2854E+16,Prueba Finpais,392,0,1115,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1056,Lopez Diaz Karlos Edwin,1.279E+16,Prueba Finpais,653,0,834,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1057,Lopez Diaz Karlos Edwin,1.279E+16,Prueba Finpais,392,0,1309,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1058,Lopez Dominguez Joel,1.2873E+16,Prueba Finpais,262,0,977,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1059,Lopez Dominguez Marvin,1.2843E+16,Prueba Finpais,653,0,1166,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1060,Lopez Felix Marco Antonio,1.2804E+16,Prueba Finpais,392,0,882,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1061,Lopez Felix Marco Antonio,1.2804E+16,Prueba Finpais,392,0,1056,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1062,Lopez Hernandez Guadalupe Selene,1.2792E+16,Prueba Finpais,249,0,1316,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1063,Lopez Osorio Francisco,1.2804E+16,Prueba Finpais,131,0,575,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1064,Lopez Perez Luis Roberto,1.2843E+16,Prueba Finpais,327,0,951,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1065,Magana Brown Veronica Del Carmen,1.279E+16,Prueba Finpais,392,0,715,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1066,Magana Cordova Guadalupe,1.2795E+16,Prueba Finpais,392,0,728,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1067,Magana Jimenez Fabiola,1.2804E+16,Prueba Finpais,131,0,928,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1068,Magana Jimenez Fabiola,1.2804E+16,Prueba Finpais,392,0,1090,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1069,Magana Raymundo Diana Isela,1.2794E+16,Prueba Finpais,327,0,979,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1070,Marquez Castillo Ignacio,1.2877E+16,Prueba Finpais,196,0,497,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1071,Martinez Martinez Isidro,1.2793E+16,Prueba Finpais,392,0,935,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1072,Martinez Silvan Juan Gabriel,1.2794E+16,Prueba Finpais,392,0,1214,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1073,Mayo Hernandez Ricarte,1.2793E+16,Prueba Finpais,262,0,898,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1074,Montejo Montejo Rigoberto,1.2794E+16,Prueba Finpais,327,0,1114,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1075,Morato Berman Daniel Alfonso,1.279E+16,Prueba Finpais,1306,0,663,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1076,Ocana Luciano Jose Reyes,1.2793E+16,Prueba Finpais,131,0,1196,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1077,Orta Hernandez Luis Guillermo,1.2804E+16,Prueba Finpais,653,0,982,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1078,Padilla Lule Adela,1.218E+16,Prueba Finpais,327,0,1236,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1079,Pancardo Bussart Arturo,1.2794E+16,Prueba Finpais,653,0,1122,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1080,Peraza Gomez Rosario,1.2052E+16,Prueba Finpais,131,0,700,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1081,Perez Gomez Jhon Sebastian,1.2804E+16,Prueba Finpais,66,0,1046,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1082,Perez Romero Lucia,1.2804E+16,Prueba Finpais,523,0,879,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1083,Ponce Flores Jair,1.2804E+16,Prueba Finpais,131,0,1152,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1084,Ramirez De La Cruz Maximo,1.2792E+16,Prueba Finpais,392,0,1444,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1085,Ramirez Hernandez Hernan,1.279E+16,Prueba Finpais,66,0,644,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1086,Ramirez Hernandez Hernan,1.279E+16,Prueba Finpais,131,0,1175,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1087,Ramirez Munoz Jym,1.2052E+16,Prueba Finpais,196,0,1220,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1088,Ramon Rios Ricardo,1.2877E+16,Prueba Finpais,131,0,515,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1089,Ramos Gomez Rene Alfonso,1.2804E+16,Prueba Finpais,392,0,1243,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1090,Ricardez Gallegos Virgilio,1.2804E+16,Prueba Finpais,653,0,1054,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1091,Rodriguez Ricardez Jose Guadalupe,1.2804E+16,Prueba Finpais,392,0,841,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1092,Rodriguez Ricardez Jose Guadalupe,1.2804E+16,Prueba Finpais,392,0,1006,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1093,Rosaldo Rodriguez Juan Luis,1.2052E+16,Prueba Finpais,262,0,589,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1094,Rosaldo Rodriguez Juan Luis,1.2052E+16,Prueba Finpais,327,0,765,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1095,Sanchez Bautista Candelario,1.2804E+16,Prueba Finpais,392,0,747,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1096,Santiago Garcia Jose Alfredo,1.279E+16,Prueba Finpais,66,0,661,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1097,Santiago Joachin Eder,1.2804E+16,Prueba Finpais,392,0,910,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1098,Santo Cruz Jesus Manuel,1.2804E+16,Prueba Finpais,392,0,719,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1099,Santos Arias Luis Alberto,1.2804E+16,Prueba Finpais,653,0,854,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1100,Santos Jauregui Jorge,1.2804E+16,Prueba Finpais,327,0,906,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1101,Santos Palma Manuel,1.2804E+16,Prueba Finpais,653,0,665,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1102,Silvan Ballina Maria Victoria,1.2052E+16,Prueba Finpais,392,0,583,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1103,Sosa Alonso Juan Carlos,1.279E+16,Prueba Finpais,196,0,659,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1104,Sosa Alonso Juan Carlos,1.279E+16,Prueba Finpais,327,0,774,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1105,Sosa Tejeda Antonio,1.2804E+16,Prueba Finpais,392,0,1011,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1106,Torres Lopez Leydi Maria,1.218E+16,Prueba Finpais,196,0,1306,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1107,Torres Ramirez Miguel,1.218E+16,Prueba Finpais,392,0,1342,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1108,Torres Torres Agustin,1.279E+16,Prueba Finpais,131,0,729,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1109,Torres Torres Agustin,1.279E+16,Prueba Finpais,653,0,812,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1110,Torres Torres Agustin,1.279E+16,Prueba Finpais,392,0,943,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1111,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,145,0,407,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1112,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,131,0,457,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1113,Trujillo Lopez Victor Manuel,1.2903E+16,Prueba Finpais,131,0,585,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1114,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,131,0,431,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1115,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,262,0,474,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1116,Trujillo Ortiz Jorge Alfredo,1.2888E+16,Prueba Finpais,131,0,588,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1117,Urena Arbona Nallely,1.2794E+16,Prueba Finpais,392,0,1180,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1118,Valenzuela Castellanos Ives Raul,1.2804E+16,Prueba Finpais,196,0,1264,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1119,Velazquez Ruiz Isaias,1.279E+16,Prueba Finpais,849,0,1085,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1120,Vidal Ramos Maria Del Carmen,1.2792E+16,Prueba Finpais,290,0,363,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1121,Zacarias Perez Mayra,1.218E+16,Prueba Finpais,262,0,1300,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1122,Arceo Ortiz Arturo,1.48546E+16,Prueba Finpais,392,0,742,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1123,Berman Oviedo Maria Isabel,1.47906E+16,Prueba Finpais,131,0,556,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1124,Cruz Martinez Luis Guillermo,1.48546E+16,Prueba Finpais,79,0,1521,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1125,Domiguez Santiago Alvaro,1.48776E+16,Prueba Finpais,392,0,522,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1126,Elvira Maria,1.49056E+16,Prueba Finpais,131,0,445,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1127,Estudillo Arias Santiago,1.48546E+16,Prueba Finpais,196,0,716,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1128,Flores Herrera Liliana Del Carmen,1.48776E+16,Prueba Finpais,196,0,1522,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1129,Garcia Jimenez Pablo,1.48546E+16,Prueba Finpais,262,0,789,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1130,Gonzalez Lopez Maria Isabel,1.48546E+16,Prueba Finpais,196,0,999,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1131,Lopez Perez Ofelia,1.48736E+16,Prueba Finpais,66,0,1232,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+1132,Luria Montiel Javier Armando,1.48776E+16,Prueba Finpais,196,0,542,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1133,Mendoza Hernandez Juan Carlos,1.47906E+16,Prueba Finpais,392,0,837,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1134,Ortiz Perez Reynaldo,1.48776E+16,Prueba Finpais,66,0,653,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1135,Ortiz Perez Reynaldo,1.48776E+16,Prueba Finpais,66,0,785,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1136,Pecero Covarrubias Valdemar,1.47906E+16,Prueba Finpais,392,0,601,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1137,Rodriguez Carmona Amador,1.48546E+16,Prueba Finpais,196,0,1252,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1138,Vargas Jallath Martha Patricia,1.49106E+16,Prueba Finpais,392,0,745,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+1139,Chable Junco Carmen,2.18021E+16,Prueba Finpais,392,0,1411,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1140,Aguilar Lazaro Maday,2.17901E+16,Prueba Finpais,392,0,1403,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1141,Alcudia Martinez Miguel,2.18541E+16,Prueba Finpais,196,0,1076,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1142,Alcudia Ventura Jose Santos,2.17941E+16,Prueba Finpais,653,0,1198,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1143,Alejandro Perez Dalver Jesus,2.17901E+16,Prueba Finpais,653,0,1189,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1144,Amaya Hernandez Jose Reyes,2.17941E+16,Prueba Finpais,392,0,1060,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1145,Arjona Flores Cristobal,2.17901E+16,Prueba Finpais,392,0,1040,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1146,Avalos De La Cruz Apolinar,2.17901E+16,Prueba Finpais,653,0,855,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1147,Avalos Madrigal Juan,2.17901E+16,Prueba Finpais,392,0,1505,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1148,Baz Vega Gilberto,2.10521E+16,Prueba Finpais,157,0,612,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1149,Bermudez Gomez Gutemberg,2.17901E+16,Prueba Finpais,653,0,695,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1150,Cancino Hernandez Arturo,2.17901E+16,Prueba Finpais,392,0,883,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1151,Carrillo Alejandro Norma Alicia,2.17901E+16,Prueba Finpais,392,0,677,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1152,Carrillo Jimenez Abel,2.17901E+16,Prueba Finpais,392,0,938,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1153,Carrillo Marquez Jose Del Carmen,2.10521E+16,Prueba Finpais,392,0,1147,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1154,Castellanos Castillo Jose Alberto,2.179E+16,Prueba Finpais,262,0,1408,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1155,Castillo Castellanos Wilians,2.17901E+16,Prueba Finpais,262,0,1286,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1156,Cerecedo Balanzategui Sergio,2.19031E+16,Prueba Finpais,262,0,811,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1157,Chable Sanchez Rafael Enrique,2.17901E+16,Prueba Finpais,523,0,796,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1158,Colorado Gonzalez Oscar,2.17901E+16,Prueba Finpais,392,0,731,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1159,Cordova Cordova Santana,2.17901E+16,Prueba Finpais,653,0,867,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1160,Cruz Hernandez Jorge Alberto,2.17901E+16,Prueba Finpais,653,0,757,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1161,De Los Santos Castillejos Elias,2.11001E+16,Prueba Finpais,392,0,1105,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1162,Del Rio Martinez Luis Manuel,2.17901E+16,Prueba Finpais,392,0,604,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1163,Del Rivero Vargas Horacio,2.10521E+16,Prueba Finpais,262,0,578,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1164,Domiguez Yzquierdo Roberto,2.17901E+16,Prueba Finpais,66,0,1468,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1165,Espinosa Chan Cesar,2.10521E+16,Prueba Finpais,196,0,553,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1166,Falconi Carrillo Wendy Selene,2.17901E+16,Prueba Finpais,392,0,1008,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1167,Figueroa Jarauta Honorato,2.17901E+16,Prueba Finpais,327,0,1079,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1168,Gallegos Cordova Carlos Manuel,2.17901E+16,Prueba Finpais,392,0,1048,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1169,Garcia De La Cruz William,2.17901E+16,Prueba Finpais,392,0,1416,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1170,Garcia Gonzalez Carmen,2.17901E+16,Prueba Finpais,131,0,1346,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1171,Gonzalez Castillo Jorge,2.17901E+16,Prueba Finpais,66,0,1144,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1172,Gonzalez Flores Jose Antonio,2.17901E+16,Prueba Finpais,262,0,783,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1173,Gonzalez Olan Benicia,2.17901E+16,Prueba Finpais,131,0,1323,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1174,Gutierrez Ventura Andres,2.17901E+16,Prueba Finpais,392,0,838,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1175,Gutierrez Ventura Andres,2.17901E+16,Prueba Finpais,392,0,1092,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1176,Hernandez Ballina Melchor,2.10521E+16,Prueba Finpais,188,0,483,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1177,Hernandez Cano Maria Salome,2.10521E+16,Prueba Finpais,392,0,600,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1178,Hernandez Cano Maria Salome,2.10521E+16,Prueba Finpais,392,0,788,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1179,Hernandez De La Rosa Gonzalo,2.17901E+16,Prueba Finpais,118,0,1415,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1180,Hernandez Izquierdo Raciel,2.17901E+16,Prueba Finpais,392,0,773,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1181,Hernandez Jimenez Maria Isabel,2.17901E+16,Prueba Finpais,392,0,916,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1182,Hernandez Marquez Faustino,2.17901E+16,Prueba Finpais,262,0,995,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1183,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,392,0,668,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1184,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,392,0,772,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1185,Javier Hernandez Carmen Alonso,2.17901E+16,Prueba Finpais,131,0,1125,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1186,Jimenez Alcudia Filonila,2.179E+16,Prueba Finpais,196,0,1111,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1187,Jimenez Jimenez Irlanda,2.17941E+16,Prueba Finpais,392,0,1038,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1188,Lezcano Hernandez Jhony Alonso,2.17901E+16,Prueba Finpais,392,0,1039,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1189,Ligonio Contreras Asuncion,2.17901E+16,Prueba Finpais,653,0,971,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1190,Magana Ronny Javier,2.17901E+16,Prueba Finpais,196,0,892,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1191,Magana Tejada Salvador,2.1794E+16,Prueba Finpais,131,0,1165,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1192,Marquez Santos Sebastian,2.17901E+16,Prueba Finpais,262,0,607,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1193,Martinez Jimenez Daniel Guadalupe,2.10521E+16,Prueba Finpais,392,0,697,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1194,Mateo Casimiro Justo,2.17941E+16,Prueba Finpais,131,0,1280,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1195,Mauleon Perez Zuemi Del Mar,2.17901E+16,Prueba Finpais,653,0,1210,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1196,Mayo Ramos Nicolas,2.17921E+16,Prueba Finpais,392,0,1163,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1197,Mendez Lopez Nicolas,2.10521E+16,Prueba Finpais,262,0,926,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1198,Morales Garduzca Miguel,2.17941E+16,Prueba Finpais,262,0,1326,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1199,Notario Celaya Silvia Graciela,2.17901E+16,Prueba Finpais,392,0,944,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1200,Ovando Sanchez Alexander,2.17901E+16,Prueba Finpais,392,0,780,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1201,Palma Arjona Daniel,2.17901E+16,Prueba Finpais,105,0,1315,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1202,Palma Dominguez Elias,2.179E+16,Prueba Finpais,653,0,675,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1203,Palma Dominguez Elias,2.179E+16,Prueba Finpais,392,0,831,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1204,Perez Alor Carlos,2.18771E+16,Prueba Finpais,392,0,840,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1205,Perez Gongora Manuel,2.10521E+16,Prueba Finpais,131,0,458,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1206,Perez Gongora Manuel,2.10521E+16,Prueba Finpais,66,0,582,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1207,Perez Ventura Angel Alberto,2.17901E+16,Prueba Finpais,392,0,809,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+1208,Perez Ventura Angel Alberto,2.17901E+16,Prueba Finpais,392,0,1049,0,13/10/2021,RECHAZADO,1,Orden de no pagar al emisor
+1209,Rabanales Dominguez Herminio,2.17941E+16,Prueba Finpais,392,0,1177,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1210,Ramirez Rodriguez Freddy,2.17901E+16,Prueba Finpais,196,0,998,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1211,Reguero Gomez Jorge Alberto,2.17901E+16,Prueba Finpais,392,0,1031,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1212,Rodriguez Alejandro Maria Cruz,2.17901E+16,Prueba Finpais,653,0,1021,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1213,Rodriguez Hernandez Graciela,2.10521E+16,Prueba Finpais,392,0,1028,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1214,Rodriguez Hernandez Guillermo,2.1052E+16,Prueba Finpais,196,0,581,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1215,Rodriguez Hernandez Guillermo,2.1052E+16,Prueba Finpais,131,0,713,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1216,Rodriguez Lazaro Julio De La Cruz,2.17901E+16,Prueba Finpais,392,0,1507,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1217,Rodriguez Perez Ricardo,2.1052E+16,Prueba Finpais,1850,0,1383,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1218,Rodriguez Ramos Angel Daniel,2.17901E+16,Prueba Finpais,392,0,748,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1219,Romero Milla Manuel Moises,2.17901E+16,Prueba Finpais,399,0,1036,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1220,Rueda Palma Teodoro,2.19101E+16,Prueba Finpais,392,0,786,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1221,Ruz Morales Arturo,2.10521E+16,Prueba Finpais,188,0,503,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1222,Salazar Cruz Crisanto,2.10521E+16,Prueba Finpais,92,0,554,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1223,Salazar Cruz Crisanto,2.10521E+16,Prueba Finpais,131,0,646,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1224,Sanchez De La Cruz Jose Francisco,2.17901E+16,Prueba Finpais,392,0,674,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1225,Sanchez Ramirez Flor Del Rocio,2.17901E+16,Prueba Finpais,262,0,673,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1226,Sanchez Santos Manuel Guadalupe,2.17901E+16,Prueba Finpais,523,0,617,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1227,Sanchez Santos Manuel Guadalupe,2.17901E+16,Prueba Finpais,523,0,870,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1228,Santo Marquez Elias,2.17901E+16,Prueba Finpais,392,0,1496,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1229,Santos Garcia Ana Rosa,2.17901E+16,Prueba Finpais,392,0,885,0,13/10/2021,RECHAZADO,1,Cuenta Bloqueada
+1230,Solis Escalante Manuel Antonio,2.1052E+16,Prueba Finpais,392,0,548,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1231,Torres Lopez Darvin,2.17941E+16,Prueba Finpais,653,0,648,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1232,Valencia Hernandez Jorge,2.17901E+16,Prueba Finpais,131,0,804,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1233,Vazquez Lopez Maribel,2.10521E+16,Prueba Finpais,131,0,640,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1234,Velazquez Cancino Manuel Enrique,2.17901E+16,Prueba Finpais,392,0,712,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1235,Vera San Lucas Jose Del Carmen,2.10521E+16,Prueba Finpais,392,0,724,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1236,Vicente Rodriguez Luis Roberto,2.17901E+16,Prueba Finpais,392,0,687,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1237,Vicente Rodriguez Luis Roberto,2.17901E+16,Prueba Finpais,392,0,829,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1238,Villalobos Hernandez Edgar,2.17901E+16,Prueba Finpais,523,0,722,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1239,Villalobos Sierra Enrique,2.10521E+16,Prueba Finpais,392,0,567,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1240,Villanueva Wilson Joaquin,2.17901E+16,Prueba Finpais,653,0,1141,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1241,Zurita Gomez Jose Luis,2.17901E+16,Prueba Finpais,262,0,1338,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1242,Vidal Perez Maria Guadalupe,4.48023E+16,Prueba Finpais,262,0,1435,0,13/10/2021,RECHAZADO,1,Cuenta Cancelada
+1243,Hernandez Montero Jose Antonio,1.2779E+17,Prueba Finpais,392,0,794,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1244,Hernandez Montero Jose Antonio,1.2779E+17,Prueba Finpais,262,0,1027,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos
+1245,De La Fuente Vecente Luis,2.8779E+15,Prueba Finpais,516,0,516,0,13/10/2021,RECHAZADO,1,Cuenta con insuficiencia de fondos

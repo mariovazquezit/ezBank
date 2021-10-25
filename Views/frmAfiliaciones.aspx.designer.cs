@@ -78,6 +78,33 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.DropDownList cmbTipoArchivo;
 
         /// <summary>
+        /// Control lblTipoArchivo.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblTipoArchivo;
+
+        /// <summary>
+        /// Control cmbAfiliarClabeCuenta.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList cmbAfiliarClabeCuenta;
+
+        /// <summary>
+        /// Control lblAfiliarPor.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblAfiliarPor;
+
+        /// <summary>
         /// Control cmbEmisora.
         /// </summary>
         /// <remarks>
@@ -85,6 +112,33 @@ namespace ezBank.Views
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList cmbEmisora;
+
+        /// <summary>
+        /// Control lblNombreEmisora.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblNombreEmisora;
+
+        /// <summary>
+        /// Control txtIdAfiliacion.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtIdAfiliacion;
+
+        /// <summary>
+        /// Control lblSiguienteAfiliacion.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblSiguienteAfiliacion;
 
         /// <summary>
         /// Control panelCargaCSV.
@@ -105,6 +159,15 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.FileUpload uploadCSVAfiliacion;
 
         /// <summary>
+        /// Control btnAfiliacionEjemploLayout.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnAfiliacionEjemploLayout;
+
+        /// <summary>
         /// Control btnVistaPreviaAfiliaciones.
         /// </summary>
         /// <remarks>
@@ -121,6 +184,33 @@ namespace ezBank.Views
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.LinkButton btnGenerarArchivo;
+
+        /// <summary>
+        /// Control btnValidacionExcel.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnValidacionExcel;
+
+        /// <summary>
+        /// Control btnDescargarArchivo.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnDescargarArchivo;
+
+        /// <summary>
+        /// Control lblAlertaTotales.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblAlertaTotales;
 
         /// <summary>
         /// Control panelCargaRespuestas.
@@ -168,15 +258,6 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.GridView dgvRespuestasAfiliacion;
 
         /// <summary>
-        /// Control panelBancoDocumentacion.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel panelBancoDocumentacion;
-
-        /// <summary>
         /// Control panelPreview.
         /// </summary>
         /// <remarks>
@@ -186,6 +267,15 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.Panel panelPreview;
 
         /// <summary>
+        /// Control lblFileName.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblFileName;
+
+        /// <summary>
         /// Control dgvPendientesAfiliacion.
         /// </summary>
         /// <remarks>
@@ -193,5 +283,14 @@ namespace ezBank.Views
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView dgvPendientesAfiliacion;
+
+        /// <summary>
+        /// Control dgvAfiliacionBody.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView dgvAfiliacionBody;
     }
 }

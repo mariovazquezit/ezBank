@@ -33,6 +33,24 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.DropDownList cmbTipoArchivo;
 
         /// <summary>
+        /// Control panelERP.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel panelERP;
+
+        /// <summary>
+        /// Control cmbERPCartera.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList cmbERPCartera;
+
+        /// <summary>
         /// Control fileupload_archivo.
         /// </summary>
         /// <remarks>

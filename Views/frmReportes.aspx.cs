@@ -125,7 +125,7 @@ namespace ezBank.Views
                     "SELECT * FROM optLogDomiciliacion WHERE FECHACOBRO>= '" + BeginDate + "' " +
                     "AND FECHACOBRO<= '" + FinishDate + "' " +
                     "ORDER BY FECHACOBRO;"+
-                "SELECT A.FECHA, A.BANCO, A.EMISORA, A.ARCHIVO, A.CREDITO, A.MONTO, A.RESPUESTA, B.DESCRIPCION, A.REGISTRO FROM OPTRESPUESTASCOBRANZA AS A "+
+                "SELECT A.FECHA, A.BANCO, A.EMISORA, A.ARCHIVO, A.CREDITO, A.MONTO, A.RESPUESTA, B.DESCRIPCION, A.BUCKET, A.REGISTRO FROM OPTRESPUESTASCOBRANZA AS A "+
                     " LEFT JOIN CATRESPUESTASCOBRANZA AS B " +
                     "ON A.RESPUESTA = B.CODIGOFACTURACION "+
                     "WHERE B.BANCO = 'SANTANDER'"+

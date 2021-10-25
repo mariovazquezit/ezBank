@@ -34,9 +34,13 @@ namespace ezBank.Views
         protected void btnDescargaEjemplo_Click(object sender, EventArgs e)
         {
             string Ejemplo = cmbTipoArchivo.Text;
+            string ERP = cmbERPCartera.Text;
             int id = 0;
 
-            if (Ejemplo == "Cartera") { id = 12; }
+            if (Ejemplo == "Cartera" && ERP=="Zell") { id = 12; }
+            if (Ejemplo == "Cartera" && ERP == "Cronos") { id = 28; }
+            if (Ejemplo == "Cartera" && ERP == "CIB") { id = 28; }
+            if (Ejemplo == "Cartera" && ERP == "Layout Basico") { id = 48; }
             if (Ejemplo == "CLABES") { id = 19; }
             if (Ejemplo == "Excepciones de Pago") { id = 20; }
 
@@ -86,18 +90,36 @@ namespace ezBank.Views
             string nombreArchivo = null;
             string nombreSP = null;
             string nombretablaSP = null;
+            string ERPCartera = cmbERPCartera.Text;
 
-            if (tipoArchivo == "Cartera")
+            if (tipoArchivo == "Cartera" && ERPCartera=="Zell")
             {
                 nombreArchivo = "SaldosCartera.xlsx";
-                nombreSP = "SP_MANUAL_SALDOSCARTERA";
+                nombreSP = "SP_MANUAL_SALDOSCARTERA_ZELL";
                 nombretablaSP = "@tblSaldosCartera";
             }
-            else if (tipoArchivo == "CLABES")
+            else if (tipoArchivo == "Cartera" && ERPCartera == "Layout Basico")
+            {
+                nombreArchivo = "SaldosCartera.xlsx";
+                nombreSP = "SP_MANUAL_SALDOSCARTERA_BASICO";
+                nombretablaSP = "@tblSaldosCartera";
+            }
+            else if (tipoArchivo == "Cartera" && ERPCartera == "CIB")
+            {
+                nombreArchivo = "SaldosCartera.xlsx";
+                nombreSP = "SP_MANUAL_SALDOSCARTERA_CIB";
+                nombretablaSP = "@tblSaldosCartera";
+            }else if (tipoArchivo == "CLABES")
             {
                 nombreArchivo = "CLABES.xlsx";
                 nombreSP = "SP_MANUAL_importaCLABEs";
                 nombretablaSP = "@tblCLABES";
+            }
+            else if (tipoArchivo == "Excepciones de Pago")
+            {
+                nombreArchivo = "ExcepcionesPago.xlsx";
+                nombreSP = "SP_MANUAL_importaBLACKLIST";
+                nombretablaSP = "@tblBlackList";
             }
 
             //Save the uploaded Excel file.
@@ -149,13 +171,33 @@ namespace ezBank.Views
                     sp.CommandTimeout = 900;
                     sp.Parameters.AddWithValue(nombretablaSP, dt);
 
+                try { 
                     con.Open();
                     sp.ExecuteNonQuery();
                     con.Close();
-                   
                     Response.Write("<script>alert('Información cargada exitosamente');</script>");
+                }
+                catch
+                {
+                    Response.Write("<script>alert('ALERTA: No se cargó la información en el Sistema porque el Archivo seleccionado tiene un error');</script>");
+                }
+                    
 
                
+            }
+        }
+
+        protected void cmbTipoArchivo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string TipoArchivo = cmbTipoArchivo.Text;
+
+            if (TipoArchivo == "Cartera")
+            {
+                panelERP.Visible = true;
+            }
+            else
+            {
+                panelERP.Visible = false;
             }
         }
     }

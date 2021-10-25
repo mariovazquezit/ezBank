@@ -33,6 +33,24 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.DropDownList cmbMetodoCobranza;
 
         /// <summary>
+        /// Control LinkButton1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton1;
+
+        /// <summary>
+        /// Control btnNuevoCobranza.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnNuevoCobranza;
+
+        /// <summary>
         /// Control panelEstrategiaCobranza.
         /// </summary>
         /// <remarks>
@@ -57,7 +75,7 @@ namespace ezBank.Views
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList cmbConvenio;
+        protected global::System.Web.UI.WebControls.ListBox cmbConvenio;
 
         /// <summary>
         /// Control cmbProximoPago.
@@ -66,7 +84,7 @@ namespace ezBank.Views
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList cmbProximoPago;
+        protected global::System.Web.UI.WebControls.ListBox cmbProximoPago;
 
         /// <summary>
         /// Control txtDiasUltimoPago.
@@ -78,22 +96,13 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.TextBox txtDiasUltimoPago;
 
         /// <summary>
-        /// Control txtDiasAtraso.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDiasAtraso;
-
-        /// <summary>
         /// Control cmbBancoInicial.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList cmbBancoInicial;
+        protected global::System.Web.UI.WebControls.ListBox cmbBancoInicial;
 
         /// <summary>
         /// Control cmbEstrategia.
@@ -103,6 +112,15 @@ namespace ezBank.Views
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList cmbEstrategia;
+
+        /// <summary>
+        /// Control cmbIndomiciliables.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList cmbIndomiciliables;
 
         /// <summary>
         /// Control panelParticionCuotaActual.
@@ -258,6 +276,96 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.DropDownList cmbBancoEmisora;
 
         /// <summary>
+        /// Control lblEmisora.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblEmisora;
+
+        /// <summary>
+        /// Control panelTipodeCobro.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel panelTipodeCobro;
+
+        /// <summary>
+        /// Control cmbTipoCobro.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList cmbTipoCobro;
+
+        /// <summary>
+        /// Control lblTipoCobro.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblTipoCobro;
+
+        /// <summary>
+        /// Control panelModalidad.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel panelModalidad;
+
+        /// <summary>
+        /// Control cmbMetodoCobro.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList cmbMetodoCobro;
+
+        /// <summary>
+        /// Control lblMetodoCobro.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMetodoCobro;
+
+        /// <summary>
+        /// Control panelArchivoSalida.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel panelArchivoSalida;
+
+        /// <summary>
+        /// Control cmbArchivoSalida.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList cmbArchivoSalida;
+
+        /// <summary>
+        /// Control lblArchivoSalida.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblArchivoSalida;
+
+        /// <summary>
         /// Control panelHoraSantander.
         /// </summary>
         /// <remarks>
@@ -294,6 +402,15 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.FileUpload uploadCSVCobranza;
 
         /// <summary>
+        /// Control btnDescargaEjemploCobranzaLayout.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnDescargaEjemploCobranzaLayout;
+
+        /// <summary>
         /// Control btnPreviewEstrategia.
         /// </summary>
         /// <remarks>
@@ -301,6 +418,33 @@ namespace ezBank.Views
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.LinkButton btnPreviewEstrategia;
+
+        /// <summary>
+        /// Control btnValidaEstrategia.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnValidaEstrategia;
+
+        /// <summary>
+        /// Control btnConstruirArchivo.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnConstruirArchivo;
+
+        /// <summary>
+        /// Control btnValidacionExcel.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton btnValidacionExcel;
 
         /// <summary>
         /// Control btnGenerarCobranza.
@@ -312,6 +456,15 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.LinkButton btnGenerarCobranza;
 
         /// <summary>
+        /// Control lblAlertaTotales.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblAlertaTotales;
+
+        /// <summary>
         /// Control panelPreviewEstrategia.
         /// </summary>
         /// <remarks>
@@ -321,6 +474,15 @@ namespace ezBank.Views
         protected global::System.Web.UI.WebControls.Panel panelPreviewEstrategia;
 
         /// <summary>
+        /// Control lblFILENAME.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblFILENAME;
+
+        /// <summary>
         /// Control dgvPreviewEstrategia.
         /// </summary>
         /// <remarks>
@@ -328,6 +490,24 @@ namespace ezBank.Views
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView dgvPreviewEstrategia;
+
+        /// <summary>
+        /// Control dgvBodyCobranza.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView dgvBodyCobranza;
+
+        /// <summary>
+        /// Control dgvFooterCobranza.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView dgvFooterCobranza;
 
         /// <summary>
         /// Control panelRespuestasCobranza.
